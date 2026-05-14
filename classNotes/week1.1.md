@@ -1,8 +1,7 @@
 # Software Design II
 ## Week 1.1
 ### Versions
-Version numbers 10.0.103
-
+Version numbers 10.0.103  
 major.minor.minor (bugs)
 
 ### Class focus
@@ -58,20 +57,18 @@ major.minor.minor (bugs)
 #### Errors
   - Compilation Error vs Runtime Error
 
-    - Compilation Error happens at compilation: like a car that will not start; immediate knowledge of error
-
+    - Compilation Error happens at compilation: like a car that will not start; immediate knowledge of error  
     - Runtime Error happens when running; like not connecting brake lines; unknown until it happens
 
 #### OOP Paradigm
   - Allows us to write code that models the real world and how we think about it intuitively
   - Inheritance
-    - Single inheritance => can only have 1 parent; cannot descend from 2 classes
+    - Single inheritance => can only have 1 parent; cannot descend from 2 classes  
     - As you move right in the line, need to get more specific; cannot become less specific
   - Scoping => public, private, protected
 
 #### Lists
-- Will use instead of array
-
+- Will use instead of array  
 ```
 int[] arr = {4, 5, 6}; 
 // size = 3

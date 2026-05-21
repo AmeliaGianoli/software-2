@@ -1,53 +1,56 @@
-﻿using System.Text.Json;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Text.Json;
 using Microsoft.Extensions.DependencyInjection;
 using SchoolSystem.Data;
-// using SchoolSystem.Services;
+using SchoolSystem.Models;
+using SchoolSystem.Services;
 
 ServiceProvider _serviceProvider;
-// SeedingService _seedingService;
-// BasicQueryService _basicQueryService;
+SeedingService _seedingService;
+BasicQueryService _basicQueryService;
 
-// // Create container to hold services for dependency injection
+// Create container to hold services for dependency injection
 var services = new ServiceCollection();
 
-// // Add services to service container
+// Add services to service container
 services.AddDbContext<ApplicationDbContext>();
-// services.AddScoped<SeedingService>();
-// services.AddScoped<BasicQueryService>();
+services.AddScoped<SeedingService>();
+services.AddScoped<BasicQueryService>();
 
-// /*
-//     Get the service provider - this is our way to take something
-//     out of the container.
-// */
-// _serviceProvider = services.BuildServiceProvider();
+/*
+    Get the service provider - this is our way to take something
+    out of the container.
+*/
+_serviceProvider = services.BuildServiceProvider();
 
-// // Retrieve instance of SeedingService from the container
-// _seedingService = _serviceProvider.GetRequiredService<SeedingService>();
+// Retrieve instance of SeedingService from the container
+_seedingService = _serviceProvider.GetRequiredService<SeedingService>();
 
-// // Retrieve instance of BasicQueryService from the container
-// _basicQueryService = _serviceProvider.GetRequiredService<BasicQueryService>();
+// Retrieve instance of BasicQueryService from the container
+_basicQueryService = _serviceProvider.GetRequiredService<BasicQueryService>();
 
-// // Call method to seed the database.
-// await _seedingService.SeedDatabase();
+// Call method to seed the database
+await _seedingService.SeedDatabase();
 
-// JsonSerializerOptions jsonOptions = new JsonSerializerOptions { WriteIndented = true };
+// Get all instructor names
+List<string> instructorNames = await _basicQueryService.GetAllInstructorNamesAsync();
 
-// var coursesByDept = await _basicQueryService.GetCoursesGroupedByDepartment();
+foreach (string name in instructorNames) {
+    Console.WriteLine(name);
+}
 
-// Console.WriteLine($"\n{JsonSerializer.Serialize(coursesByDept, jsonOptions)}\n");
+Console.WriteLine("======================== GetInstructorByIdAsync ===================");
+Instructor? person = await _basicQueryService.GetInstructorByIdAsync(1);
+Console.WriteLine($"{person.FirstName} {person.LastName} works in {person.Department.Name}");
+
+Console.WriteLine("======================== Depts with more than one course ===================");
+List<Department> depts = await _basicQueryService.GetDepartmentsWithMoreThanOneCourseAsync();
+
+foreach (var dept in depts) {
+    Console.WriteLine(dept.Name);
+}
 
 
-// Console.WriteLine("\n=========== GetStudentCourses() =============\n");
 
-// var studentCourses = await _basicQueryService.GetStudentCourses();
-
-// Console.WriteLine($"\n{JsonSerializer.Serialize(studentCourses, jsonOptions)}\n");
-
-
-// Console.WriteLine("\n=========== GetStudentCoursesFlattened() =============\n");
-
-// var studentCoursesFlattened = await _basicQueryService.GetStudentCoursesFlattened();
-
-// Console.WriteLine($"\n{JsonSerializer.Serialize(studentCoursesFlattened, jsonOptions)}\n");
 
 

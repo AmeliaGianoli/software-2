@@ -28,7 +28,7 @@ major.minor.minor (bugs)
   - when performing certain actions, other actions can be done unrelated to the original action; standing waiting for something to finish before being able to do anything else
   - used primarily with FIle I/O
 
-  ```
+  ```csharp
   // code
 
   List<Movie> movies = await GetMovies();
@@ -41,7 +41,7 @@ major.minor.minor (bugs)
 #### Datatypes
   - A collection of values and the calculations we can perform on those values.
 
-  ```
+  ```csharp
   int x; 
   //contains integers
 
@@ -69,7 +69,7 @@ major.minor.minor (bugs)
 
 #### Lists
 - Will use instead of array  
-```
+```csharp
 int[] arr = {4, 5, 6}; 
 // size = 3
 
@@ -83,12 +83,12 @@ arr[3]=8;
   - List comes with a bunch of methods we can use for manipulation and save a ton of coding, protection from errors, etc. 
 
 #### Generics
-``` 
+```csharp
 List<int> numbers = new List<int>();
 // 'int' is the generic in this example
 ```
   - Generic is a variable for a datatype
-  ```
+  ```csharp
   public class Box<T>{
     public T Item {get; set; }
   }

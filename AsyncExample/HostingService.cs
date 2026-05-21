@@ -1,8 +1,11 @@
-public static class HostingService {
+public static class HostingService
+{
 
-    public static async Task HostDinnerAsync() {
+    public static async Task HostDinnerAsync()
+    {
         // Going to clean before doing anything else
         await PrepCleanAsync();
+        // await needs to be in a task labeled as asynch
 
         SetTable();
 
@@ -20,11 +23,13 @@ public static class HostingService {
         CutUpChicken(cookedChicken, 4);
     }
 
-    public static void SetTable() {
+    public static void SetTable()
+    {
         Console.WriteLine("Table is set.");
     }
 
-    public static void LiftWeights() {
+    public static void LiftWeights()
+    {
         Console.WriteLine("Lifted weights!");
     }
 
@@ -32,7 +37,8 @@ public static class HostingService {
                 HOUSE CLEANING TASKS BEGIN
     ***********************************************/
 
-    public static async Task PrepCleanAsync() {
+    public static async Task PrepCleanAsync()
+    {
         Console.WriteLine("Cleaning the house...");
         Task dishesTask = CleanDishesAsync();
 
@@ -44,11 +50,13 @@ public static class HostingService {
         Console.WriteLine("House is clean.");
     }
 
-    public static void Vaccuum() {
+    public static void Vaccuum()
+    {
         Console.WriteLine("Vaccuumed.");
     }
 
-    public static void Mop() {
+    public static void Mop()
+    {
         Console.WriteLine("Mopped.");
     }
 
@@ -59,23 +67,27 @@ public static class HostingService {
     /***********************************************
                     DISHES TASKS BEGIN
     ***********************************************/
-    public static async Task CleanDishesAsync() {
+    public static async Task CleanDishesAsync()
+    {
         LoadDishwasher();
         await StartDishwasherAsync();
         PutDishesAway();
     }
 
-    public static void LoadDishwasher() {
+    public static void LoadDishwasher()
+    {
         Console.WriteLine("Loaded dishwasher.");
     }
 
-    public static async Task StartDishwasherAsync() {
+    public static async Task StartDishwasherAsync()
+    {
         Console.WriteLine("*-*-*-*-* Washing dishes...\n");
         await Task.Delay(5000);
         Console.WriteLine("\n*-*-*-*-* Dishes clean.");
     }
 
-    public static void PutDishesAway() {
+    public static void PutDishesAway()
+    {
         Console.WriteLine("Dishes put away.");
     }
 
@@ -83,7 +95,8 @@ public static class HostingService {
                     DISHES TASKS END
     ***********************************************/
 
-    public static async Task<Chicken> CookChickenAsync() {
+    public static async Task<Chicken> CookChickenAsync()
+    {
         Console.WriteLine("*-*-*-*-* Chicken is in the oven...\n");
         await Task.Delay(5000);
         Console.WriteLine("\n*-*-*-*-*Chicken is cooked!");
@@ -91,7 +104,8 @@ public static class HostingService {
         return new Chicken { SizeInPounds = 40, IsDone = true };
     }
 
-    public static int CutUpChicken(Chicken chicken, int numPlates) {
+    public static int CutUpChicken(Chicken chicken, int numPlates)
+    {
         Console.WriteLine("Cutting up the chicken...");
         Console.WriteLine("Chicken is cut and ready to serve!");
 

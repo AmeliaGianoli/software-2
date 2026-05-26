@@ -3,7 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SchoolSystem.Models;
 
-public class Instructor {
+public class Instructor
+{
 
     [Key]
     public int Id { get; set; }
@@ -14,6 +15,8 @@ public class Instructor {
 
     [ForeignKey("Department")]
     public int DepartmentId { get; set; }
+
+    //    navigation property:
     public virtual Department? Department { get; set; }
 
     public DateTime JoiningDate { get; set; }

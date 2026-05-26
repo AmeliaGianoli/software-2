@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/2YZWfbbNg=",
+  "dgSpecHash": "xn2C03rSBr0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\SchoolSystem\\SchoolSystem.csproj",
+  "projectFilePath": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\SchoolSystem\\SchoolSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\board\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\board\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

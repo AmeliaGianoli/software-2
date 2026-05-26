@@ -35,7 +35,8 @@ await _seedingService.SeedDatabase();
 // Get all instructor names
 List<string> instructorNames = await _basicQueryService.GetAllInstructorNamesAsync();
 
-foreach (string name in instructorNames) {
+foreach (string name in instructorNames)
+{
     Console.WriteLine(name);
 }
 
@@ -46,9 +47,20 @@ Console.WriteLine($"{person.FirstName} {person.LastName} works in {person.Depart
 Console.WriteLine("======================== Depts with more than one course ===================");
 List<Department> depts = await _basicQueryService.GetDepartmentsWithMoreThanOneCourseAsync();
 
-foreach (var dept in depts) {
+foreach (var dept in depts)
+{
     Console.WriteLine(dept.Name);
 }
+
+Console.WriteLine("=============================GetDepartmentWithMostCoursesAsync===========================");
+string deptWithMostCourses = await _basicQueryService.GetDepartmentWithMostCoursesAsync();
+Console.WriteLine($"Department with the most courses: {deptWithMostCourses}");
+
+
+Console.WriteLine("======================== GetInstructorByIdAsync ===================");
+InstructorDto? person = await _basicQueryService.GetInstructorDtoByIdAsync(1);
+Console.WriteLine($"{person.FirstName} {person.LastName} works in {person.Department.Name}");
+
 
 
 

@@ -17,4 +17,6 @@ public class Invoice
   public string? BillingCountry { get; set; }
   public string? BillingPostalCode { get; set; }
   public decimal Total { get; set; }
+  public virtual ICollection<InvoiceLine> InvoiceLines { get; set; } = new List<InvoiceLine>();
+
 }

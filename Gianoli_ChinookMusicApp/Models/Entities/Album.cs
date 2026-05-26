@@ -6,7 +6,7 @@ namespace Gianoli_ChinookMusicApp.Models.Entities;
 public class Album
 {
   [Key]
-  public required int AlbumId { get; set; }
+  public int AlbumId { get; set; }
   public required string Title { get; set; }
   [ForeignKey("Artist")]
   public int ArtistId { get; set; }

@@ -7,7 +7,7 @@ public class Track
 {
   [Key]
   public int TrackId { get; set; }
-  public required string MName { get; set; }
+  public required string Name { get; set; }
   [ForeignKey("Album")]
   public int AlbumId { get; set; }
   public virtual Album? Album { get; set; }

@@ -6,7 +6,7 @@ namespace Gianoli_ChinookMusicApp.Models.Entities;
 public class Customer
 {
   [Key]
-  public required int CustomerId { get; set; }
+  public int CustomerId { get; set; }
   public required string FirstName { get; set; }
   public required string LastName { get; set; }
   public string? Company { get; set; }
@@ -21,5 +21,7 @@ public class Customer
   [ForeignKey("SupportRep")]
   public int SupportRepId { get; set; }
   public virtual Employee? SupportRep { get; set; }
+
+  public virtual ICollection<Invoice> Invoices { get; set; } = new List<Invoice>();
 
 }

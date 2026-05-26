@@ -57,9 +57,9 @@ string deptWithMostCourses = await _basicQueryService.GetDepartmentWithMostCours
 Console.WriteLine($"Department with the most courses: {deptWithMostCourses}");
 
 
-Console.WriteLine("======================== GetInstructorByIdAsync ===================");
-InstructorDto? person = await _basicQueryService.GetInstructorDtoByIdAsync(1);
-Console.WriteLine($"{person.FirstName} {person.LastName} works in {person.Department.Name}");
+// Console.WriteLine("======================== GetInstructorByIdAsync ===================");
+// InstructorDto? person = await _basicQueryService.GetInstructorDtoByIdAsync(1);
+// Console.WriteLine($"{person.FirstName} {person.LastName} works in {person.Department.Name}");
 
 
 

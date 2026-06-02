@@ -139,7 +139,12 @@ public class MusicQueryService
   //   // #16
   //   public async Task<> GetPlaylistsWithTrackCount() { }
   //   // #17
-  //   public async Task<> GetTracksByPlaylistId(int playlistId) { }
+  public async Task<> GetTracksByPlaylistId(int playlistId)
+  {
+    return await _context.Track
+
+
+  }
   //   // #18
   //   public async Task<> GetPlaylistWithMostTracks() { }
   //   // #19
@@ -151,12 +156,12 @@ public class MusicQueryService
   //   // #22
   //   public async Task<>
   // // #23
-  // public async Task<>
+  //    public async Task<>
   // // #24
-  // public async Task<>
+  //    public async Task<>
   // // #25
-  // public async Task<>
+  //    public async Task<>
   // // #26
-  // public async Task<>
+  //    public async Task<>
 
 }

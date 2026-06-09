@@ -1,0 +1,15 @@
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\bin\Debug\net9.0\InterfaceExamples.exe
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\bin\Debug\net9.0\InterfaceExamples.deps.json
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\bin\Debug\net9.0\InterfaceExamples.runtimeconfig.json
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\bin\Debug\net9.0\InterfaceExamples.dll
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\bin\Debug\net9.0\InterfaceExamples.pdb
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.AssemblyInfoInputs.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.AssemblyInfo.cs
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.csproj.CoreCompileInputs.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.sourcelink.json
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.dll
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\refint\InterfaceExamples.dll
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.pdb
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\InterfaceExamples.genruntimeconfig.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\InterfaceExamples\obj\Debug\net9.0\ref\InterfaceExamples.dll

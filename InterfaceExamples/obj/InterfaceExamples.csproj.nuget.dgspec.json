@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\InterfaceExamples\\InterfaceExamples.csproj": {}
+    "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\InterfaceExamples\\InterfaceExamples.csproj": {}
   },
   "projects": {
-    "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\InterfaceExamples\\InterfaceExamples.csproj": {
+    "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\InterfaceExamples\\InterfaceExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\InterfaceExamples\\InterfaceExamples.csproj",
+        "projectUniqueName": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\InterfaceExamples\\InterfaceExamples.csproj",
         "projectName": "InterfaceExamples",
-        "projectPath": "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\InterfaceExamples\\InterfaceExamples.csproj",
+        "projectPath": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\InterfaceExamples\\InterfaceExamples.csproj",
         "packagesPath": "C:\\Users\\board\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\board\\Documents\\software_design_ii_student_2026\\InterfaceExamples\\obj\\",
+        "outputPath": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\InterfaceExamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

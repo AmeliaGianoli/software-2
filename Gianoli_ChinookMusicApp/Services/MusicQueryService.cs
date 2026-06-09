@@ -3,6 +3,7 @@ using Gianoli_ChinookMusicApp.Data;
 using Gianoli_ChinookMusicApp.Models.Dtos;
 using Gianoli_ChinookMusicApp.Models.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 
 namespace Gianoli_ChinookMusicApp.Services;
 
@@ -133,35 +134,187 @@ public class MusicQueryService
       .ToListAsync();
   }
   //   // #14
-  //   public async Task<> GetAlbumsWithTrackDuration() { }
-  //   // #15
-  //   public async Task<> GetGenreTrackCounts() { }
-  //   // #16
-  //   public async Task<> GetPlaylistsWithTrackCount() { }
-  //   // #17
-  public async Task<> GetTracksByPlaylistId(int playlistId)
+  public async Task<List<StatisticDto>> GetAlbumsWithTrackDuration()
   {
-    return await _context.Track
+    return await _context.Album
+      .Select(album => new StatisticDto
+      {
+        Label = album.Title,
+        Value = album.Tracks.Sum(track => track.Milliseconds / 1000.0m),
+        ValueMetric = "seconds"
+      })
+      .ToListAsync();
+  }
+  //   // #15
+  public async Task<List<StatisticDto>> GetGenreTrackCounts()
+  {
+    return await _context.Genre
+      .Select(genre => new StatisticDto
+      {
+        Label = genre.Name,
+        Value = genre.Tracks.Count(),
+        ValueMetric = "Tracks"
+      })
+      .ToListAsync();
+  }
+  //   // #16
+  public async Task<List<StatisticDto>> GetPlaylistsWithTrackCount()
+  {
+    return await _context.Playlist
+      .Select(playlist => new StatisticDto
+      {
+        Label = playlist.Name,
+        Value = playlist.Tracks.Count(),
+      })
+      .ToListAsync();
+  }
+  //   // #17
+  public async Task<List<Track>> GetTracksByPlaylistId(int playlistId)
+  {
+    return await _context.Playlist
+      .Where(playlist => playlist.PlaylistId == playlistId)
+      .SelectMany(playlist => playlist.Tracks)
+      .ToListAsync();
 
 
   }
   //   // #18
-  //   public async Task<> GetPlaylistWithMostTracks() { }
+  public async Task<Playlist?> GetPlaylistWithMostTracks()
+  {
+    return await _context.Playlist
+      .OrderByDescending(p => p.Tracks.Count)
+      .FirstOrDefaultAsync();
+  }
   //   // #19
-  //   public async Task<> GetPlaylistWithLeastTracks() { }
+  public async Task<Playlist?> GetPlaylistWithLeastTracks()
+  {
+    return await _context.Playlist
+  .OrderBy(p => p.Tracks.Count)
+  .FirstOrDefaultAsync();
+  }
   //   // #20
-  //   public async Task<> GetTopFivePlaylistsWithMostTracks() { }
+  public async Task<List<StatisticDto>> GetTopFivePlaylistsWithMostTracks()
+  {
+    return await _context.Playlist
+      .OrderByDescending(p => p.Tracks.Count)
+      .Take(5)
+      .Select(p => new StatisticDto
+      {
+        Label = p.Name,
+        Value = p.Tracks.Count,
+        ValueMetric = "Tracks"
+      })
+      .ToListAsync();
+  }
   //   // #21
-  //   public async Task<> GetBottomFivePlaylistsWithLeastTracks() { }
+  public async Task<List<StatisticDto>> GetBottomFivePlaylistsWithLeastTracks()
+  {
+    return await _context.Playlist
+     .OrderBy(p => p.Tracks.Count)
+     .Take(5)
+     .Select(p => new StatisticDto
+     {
+       Label = p.Name,
+       Value = p.Tracks.Count,
+       ValueMetric = "Tracks"
+     })
+     .ToListAsync();
+  }
   //   // #22
-  //   public async Task<>
+  // This Query finds the top 10 most expensive tracks in the Database
+  // SELECT TOP 10
+  //     Name,
+  //     UnitPrice
+  // FROM Track
+  // ORDER BY UnitPrice DESC;
+  public async Task<List<StatisticDto>> GetTopTenMostExpensiveTracks()
+  {
+    return await _context.Track
+     .OrderByDescending(t => t.UnitPrice)
+     .Take(10)
+     .Select(t => new StatisticDto
+     {
+       Label = t.Name,
+       Value = t.UnitPrice,
+       ValueMetric = "Dollars"
+     })
+     .ToListAsync();
+  }
   // // #23
-  //    public async Task<>
+  // This query returns the artists and their albums where the artist's name includes "Iron";
+  // I modified it slightly to be reusable for any search term
+  // SELECT
+  //     Album.Title,
+  //     Artist.Name
+  // FROM Album
+  // JOIN Artist
+  //     ON Album.ArtistId = Artist.ArtistId
+  // WHERE Artist.Name LIKE '%Iron%';
+  public async Task<List<AlbumArtistDto>> AlbumsFromArtistSearch(string search)
+  {
+    return await _context.Album
+     .Where(album => album.Artist!.Name.Contains(search))
+     .Include(a => a.Artist)
+     .Select(a => new AlbumArtistDto
+     {
+       AlbumTitle = a.Title,
+       ArtistName = a.Artist!.Name
+     })
+     .ToListAsync();
+  }
   // // #24
-  //    public async Task<>
+  // This query returns tracks longer than 5 minutes, along with their duration in seconds
+  // SELECT
+  //     Name,
+  //     Milliseconds
+  // FROM Track
+  // WHERE Milliseconds > 300000;
+  public async Task<List<StatisticDto>> TracksOverFiveMinutes()
+  {
+    return await _context.Track
+      .Where(t => t.Milliseconds > 300000)
+      .Select(t => new StatisticDto
+      {
+        Label = t.Name,
+        Value = (decimal)t.Milliseconds / 1000,
+        ValueMetric = "Seconds"
+      })
+      .ToListAsync();
+  }
   // // #25
-  //    public async Task<>
+  // This query returns all album titles in alphabetical order
+  //   SELECT
+  //     Title
+  // FROM Album
+  // ORDER BY Title;
+  public async Task<List<string>> AlbumsByTitle()
+  {
+    return await _context.Album
+      .OrderBy(a => a.Title)
+      .Select(a => a.Title)
+      .ToListAsync();
+  }
   // // #26
-  //    public async Task<>
+  // This query returns the track name and album for a specific album;
+  // Again, I will be modifying it to work for any search term instead 
+  // of hardcoding the search into the query
+  //   SELECT
+  //     Track.Name,
+  //     Album.Title
+  // FROM Track
+  // JOIN Album
+  //     ON Track.AlbumId = Album.AlbumId
+  // WHERE Album.Title = 'Big Ones';
+  public async Task<List<AlbumTrackDto>> TracksOnAlbum(string search)
+  {
+    return await _context.Track
+      .Where(t => t.Album!.Title.Contains(search))
+      .Select(t => new AlbumTrackDto
+      {
+        AlbumTitle = t.Album.Title,
+        TrackName = t.Name
+      })
+      .ToListAsync();
+  }
 
 }

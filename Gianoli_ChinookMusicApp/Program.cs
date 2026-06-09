@@ -14,7 +14,7 @@ services.AddScoped<MusicQueryService>();
 _serviceProvider = services.BuildServiceProvider();
 _musicQueryService = _serviceProvider.GetRequiredService<MusicQueryService>();
 
-Console.Clear();
+// Console.Clear();
 Console.WriteLine("\n--- GetAllArtistsWithAlbums ---");
 var artistsWithAlbums = await _musicQueryService.GetAllArtistsWithAlbums();
 foreach (var artist in artistsWithAlbums)
@@ -105,52 +105,52 @@ foreach (var detail in trackDetails)
   Console.WriteLine($"{detail.Track} - {detail.Album} by {detail.Artist}");
 }
 
-// Console.WriteLine("\n--- GetAlbumsWithTrackDuration ---");
-// var albumDurations = await _musicQueryService.GetAlbumsWithTrackDuration();
-// foreach (var stat in albumDurations)
-// {
-//   Console.WriteLine($"{stat.Label}: {stat.Value} {stat.ValueMetric}");
-// }
+Console.WriteLine("\n--- GetAlbumsWithTrackDuration ---");
+var albumDurations = await _musicQueryService.GetAlbumsWithTrackDuration();
+foreach (var stat in albumDurations)
+{
+  Console.WriteLine($"{stat.Label}: {stat.Value} {stat.ValueMetric}");
+}
 
-// Console.WriteLine("\n--- GetGenreTrackCounts ---");
-// var genreTrackCounts = await _musicQueryService.GetGenreTrackCounts();
-// foreach (var stat in genreTrackCounts)
-// {
-//   Console.WriteLine($"{stat.Label}: {stat.Value}");
-// }
+Console.WriteLine("\n--- GetGenreTrackCounts ---");
+var genreTrackCounts = await _musicQueryService.GetGenreTrackCounts();
+foreach (var stat in genreTrackCounts)
+{
+  Console.WriteLine($"{stat.Label}: {stat.Value}");
+}
 
-// Console.WriteLine("\n--- GetPlaylistsWithTrackCount ---");
-// var playlistStats = await _musicQueryService.GetPlaylistsWithTrackCount();
-// foreach (var stat in playlistStats)
-// {
-//   Console.WriteLine($"{stat.Label}: {stat.Value}");
-// }
+Console.WriteLine("\n--- GetPlaylistsWithTrackCount ---");
+var playlistStats = await _musicQueryService.GetPlaylistsWithTrackCount();
+foreach (var stat in playlistStats)
+{
+  Console.WriteLine($"{stat.Label}: {stat.Value}");
+}
 
-// Console.WriteLine("\n--- GetTracksByPlaylistId (PlaylistId = 1) ---");
-// var tracksInPlaylist = await _musicQueryService.GetTracksByPlaylistId(1);
-// foreach (var track in tracksInPlaylist)
-// {
-//   Console.WriteLine(track.Name);
-// }
+Console.WriteLine("\n--- GetTracksByPlaylistId (PlaylistId = 1) ---");
+var tracksInPlaylist = await _musicQueryService.GetTracksByPlaylistId(1);
+foreach (var track in tracksInPlaylist)
+{
+  Console.WriteLine(track.Name);
+}
 
-// Console.WriteLine("\n--- GetPlaylistWithMostTracks ---");
-// var mostTracksPlaylist = await _musicQueryService.GetPlaylistWithMostTracks();
-// Console.WriteLine($"{mostTracksPlaylist?.Name} ({mostTracksPlaylist?.Tracks.Count} tracks)");
+Console.WriteLine("\n--- GetPlaylistWithMostTracks ---");
+var mostTracksPlaylist = await _musicQueryService.GetPlaylistWithMostTracks();
+Console.WriteLine($"{mostTracksPlaylist?.Name} ({mostTracksPlaylist?.Tracks.Count} tracks)");
 
-// Console.WriteLine("\n--- GetPlaylistWithLeastTracks ---");
-// var leastTracksPlaylist = await _musicQueryService.GetPlaylistWithLeastTracks();
-// Console.WriteLine($"{leastTracksPlaylist?.Name} ({leastTracksPlaylist?.Tracks.Count} tracks)");
+Console.WriteLine("\n--- GetPlaylistWithLeastTracks ---");
+var leastTracksPlaylist = await _musicQueryService.GetPlaylistWithLeastTracks();
+Console.WriteLine($"{leastTracksPlaylist?.Name} ({leastTracksPlaylist?.Tracks.Count} tracks)");
 
-// Console.WriteLine("\n--- GetTopFivePlaylistsWithMostTracks ---");
-// var top5Stats = await _musicQueryService.GetTopFivePlaylistsWithMostTracks();
-// foreach (var stat in top5Stats)
-// {
-//   Console.WriteLine($"{stat.Label}: {stat.Value} tracks");
-// }
+Console.WriteLine("\n--- GetTopFivePlaylistsWithMostTracks ---");
+var top5Stats = await _musicQueryService.GetTopFivePlaylistsWithMostTracks();
+foreach (var stat in top5Stats)
+{
+  Console.WriteLine($"{stat.Label}: {stat.Value} tracks");
+}
 
-// Console.WriteLine("\n--- GetBottomFivePlaylistsWithLeastTracks ---");
-// var bottom5Stats = await _musicQueryService.GetBottomFivePlaylistsWithLeastTracks();
-// foreach (var stat in bottom5Stats)
-// {
-//   Console.WriteLine($"{stat.Label}: {stat.Value} tracks");
-// }
+Console.WriteLine("\n--- GetBottomFivePlaylistsWithLeastTracks ---");
+var bottom5Stats = await _musicQueryService.GetBottomFivePlaylistsWithLeastTracks();
+foreach (var stat in bottom5Stats)
+{
+  Console.WriteLine($"{stat.Label}: {stat.Value} tracks");
+}

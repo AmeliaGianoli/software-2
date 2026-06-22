@@ -1,9 +1,3 @@
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.csproj.AssemblyReference.cache
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.AssemblyInfoInputs.cache
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.AssemblyInfo.cs
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.csproj.CoreCompileInputs.cache
-C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.sourcelink.json
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\Gianoli_ChinookCrudApp.exe
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\Gianoli_ChinookCrudApp.deps.json
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\Gianoli_ChinookCrudApp.runtimeconfig.json
@@ -133,6 +127,12 @@ C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 So
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.csproj.AssemblyReference.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.AssemblyInfoInputs.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.AssemblyInfo.cs
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.sourcelink.json
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_.8626CC6A.Up2Date
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\Gianoli_ChinookCrudApp.dll
 C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookCrudApp\obj\Debug\net10.0\refint\Gianoli_ChinookCrudApp.dll

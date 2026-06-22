@@ -2964,11 +2964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\Gianoli_ChinookCrudApp.csproj",
+      "projectUniqueName": "c:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\Gianoli_ChinookCrudApp.csproj",
       "projectName": "Gianoli_ChinookCrudApp",
-      "projectPath": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\Gianoli_ChinookCrudApp.csproj",
+      "projectPath": "c:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\Gianoli_ChinookCrudApp.csproj",
       "packagesPath": "C:\\Users\\board\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\obj\\",
+      "outputPath": "c:\\Users\\board\\OneDrive - Western Wisconsin Technical College\\4 Summer 2026\\2 Software Development 2\\Gianoli_ChinookCrudApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

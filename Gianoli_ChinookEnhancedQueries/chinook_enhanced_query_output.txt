@@ -1,0 +1,2421 @@
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookEnhancedQueries\Gianoli_ChinookEnhancedQueries.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+C:\Users\board\OneDrive - Western Wisconsin Technical College\4 Summer 2026\2 Software Development 2\Gianoli_ChinookEnhancedQueries\Gianoli_ChinookEnhancedQueries.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+
+1) CustomersGroupedBySupportRepAsync:
+Rep: jane@chinookcorp.com => 21 customers
+Rep: steve@chinookcorp.com => 18 customers
+Rep: margaret@chinookcorp.com => 20 customers
+
+2) GetCustomersByCountry:
+Argentina: 1 customers
+Australia: 1 customers
+Austria: 1 customers
+Belgium: 1 customers
+Brazil: 5 customers
+Canada: 8 customers
+Chile: 1 customers
+Czech Republic: 2 customers
+Denmark: 1 customers
+Finland: 1 customers
+France: 5 customers
+Germany: 4 customers
+Hungary: 1 customers
+India: 2 customers
+Ireland: 1 customers
+Italy: 1 customers
+Netherlands: 1 customers
+Norway: 1 customers
+Poland: 1 customers
+Portugal: 2 customers
+Spain: 1 customers
+Sweden: 1 customers
+USA: 13 customers
+United Kingdom: 3 customers
+
+3) TrackCountByAlbumAsync:
+...And Justice For All: 9 tracks
+20th Century Masters - The Millennium Collection: The Best of Scorpions: 12 tracks
+A Copland Celebration, Vol. I: 1 tracks
+A Matter of Life and Death: 11 tracks
+A Real Dead One: 12 tracks
+A Real Live One: 11 tracks
+A Soprano Inspired: 1 tracks
+A TempestadeTempestade Ou O Livro Dos Dias: 15 tracks
+A-Sides: 17 tracks
+Ace Of Spades: 15 tracks
+Achtung Baby: 12 tracks
+Acústico: 22 tracks
+Acústico MTV: 21 tracks
+Acústico MTV [Live]: 17 tracks
+Adams, John: The Chairman Dances: 1 tracks
+Adorate Deum: Gregorian Chant from the Proper of the Mass: 1 tracks
+Afrociberdelia: 23 tracks
+Album Of The Year: 12 tracks
+Alcohol Fueled Brewtality Live! [Disc 1]: 13 tracks
+Alcohol Fueled Brewtality Live! [Disc 2]: 5 tracks
+All That You Can't Leave Behind: 11 tracks
+Allegri: Miserere: 1 tracks
+American Idiot: 13 tracks
+Angel Dust: 14 tracks
+Ao Vivo [IMPORT]: 19 tracks
+Appetite for Destruction: 12 tracks
+Aquaman: 1 tracks
+Are You Experienced?: 17 tracks
+Armada: Music from the Courts of England and Spain: 1 tracks
+Arquivo II: 12 tracks
+Arquivo Os Paralamas Do Sucesso: 16 tracks
+As Canções de Eu Tu Eles: 14 tracks
+Audioslave: 14 tracks
+Axé Bahia 2001: 14 tracks
+B-Sides 1980-1990: 15 tracks
+BBC Sessions [Disc 1] [Live]: 14 tracks
+BBC Sessions [Disc 2] [Live]: 10 tracks
+Bach: Goldberg Variations: 1 tracks
+Bach: Orchestral Suites Nos. 1 - 4: 1 tracks
+Bach: The Brandenburg Concertos: 1 tracks
+Bach: The Cello Suites: 1 tracks
+Bach: Toccata & Fugue in D Minor: 1 tracks
+Bach: Violin Concertos: 1 tracks
+Back to Black: 12 tracks
+BackBeat Soundtrack: 12 tracks
+Balls to the Wall: 1 tracks
+Bark at the Moon (Remastered): 1 tracks
+Bartok: Violin & Viola Concertos: 1 tracks
+Barulhinho Bom: 18 tracks
+Battlestar Galactica (Classic), Season 1: 24 tracks
+Battlestar Galactica, Season 3: 19 tracks
+Battlestar Galactica: The Story So Far: 1 tracks
+Beethoven Piano Sonatas: Moonlight & Pastorale: 1 tracks
+Beethoven: Symhonies Nos. 5 & 6: 1 tracks
+Beethoven: Symphony No. 6 'Pastoral' Etc.: 1 tracks
+Berlioz: Symphonie Fantastique: 1 tracks
+Beyond Good And Evil: 12 tracks
+Big Ones: 15 tracks
+Bizet: Carmen Highlights: 1 tracks
+Black Album: 12 tracks
+Black Sabbath: 7 tracks
+Black Sabbath Vol. 4 (Remaster): 10 tracks
+Blizzard of Ozz: 2 tracks
+Blood Sugar Sex Magik: 17 tracks
+Blue Moods: 13 tracks
+Body Count: 17 tracks
+Bongo Fury: 9 tracks
+Brave New World: 10 tracks
+By The Way: 16 tracks
+Cafezinho: 14 tracks
+Cake: B-Sides and Rarities: 1 tracks
+Californication: 15 tracks
+Carmina Burana: 1 tracks
+Carnaval 2001: 14 tracks
+Carried to Dust (Bonus Track Version): 1 tracks
+Carry On: 14 tracks
+Cesta Básica: 10 tracks
+Charpentier: Divertissements, Airs & Concerts: 1 tracks
+Chemical Wedding: 11 tracks
+Chill: Brazil (Disc 1): 17 tracks
+Chill: Brazil (Disc 2): 17 tracks
+Chopin: Piano Concertos Nos. 1 & 2: 1 tracks
+Chronicle, Vol. 1: 20 tracks
+Chronicle, Vol. 2: 20 tracks
+Cidade Negra - Hits: 14 tracks
+Coda: 8 tracks
+Come Taste The Band: 9 tracks
+Compositores: 15 tracks
+Contraband: 13 tracks
+Core: 12 tracks
+Cássia Eller - Coleção Sem Limite [Disc 2]: 15 tracks
+Cássia Eller - Sem Limite [Disc 1]: 15 tracks
+Da Lama Ao Caos: 13 tracks
+Dance Of Death: 11 tracks
+Dark Side Of The Moon: 9 tracks
+Deep Purple In Rock: 7 tracks
+Deixa Entrar: 14 tracks
+Demorou...: 12 tracks
+Diary of a Madman (Remastered): 1 tracks
+Diver Down: 12 tracks
+Djavan Ao Vivo - Vol. 02: 13 tracks
+Djavan Ao Vivo - Vol. 1: 13 tracks
+Duos II: 1 tracks
+Elgar: Cello Concerto & Vaughan Williams: Fantasias: 1 tracks
+Elis Regina-Minha História: 14 tracks
+Emergency On Planet Earth: 10 tracks
+English Renaissance: 2 tracks
+Every Kind of Light: 2 tracks
+Faceless: 12 tracks
+Facelift: 12 tracks
+Fauré: Requiem, Ravel: Pavane & Others: 1 tracks
+Fear Of The Dark: 12 tracks
+Fireball: 7 tracks
+For Those About To Rock We Salute You: 10 tracks
+Frank: 11 tracks
+From The Muddy Banks Of The Wishkah [Live]: 17 tracks
+Garage Inc. (Disc 1): 11 tracks
+Garage Inc. (Disc 2): 16 tracks
+Get Born: 13 tracks
+Great Opera Choruses: 1 tracks
+Great Performances - Barber's Adagio and Other Romantic Favorites for Strings: 1 tracks
+Great Recordings of the Century - Mahler: Das Lied von der Erde: 1 tracks
+Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder: 1 tracks
+Great Recordings of the Century: Paganini's 24 Caprices: 1 tracks
+Greatest Hits: 57 tracks
+Greatest Hits I: 17 tracks
+Greatest Hits II: 17 tracks
+Greatest Kiss: 20 tracks
+Green: 11 tracks
+Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande: 1 tracks
+Górecki: Symphony No. 3: 1 tracks
+Handel: Music for the Royal Fireworks (Original Version 1749): 1 tracks
+Handel: The Messiah (Highlights): 1 tracks
+Haydn: Symphonies 99 - 104: 1 tracks
+Heart of the Night: 12 tracks
+Heroes, Season 1: 23 tracks
+Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies: 1 tracks
+Hot Rocks, 1964-1971 (Disc 1): 12 tracks
+House of Pain: 19 tracks
+Houses Of The Holy: 8 tracks
+How To Dismantle An Atomic Bomb: 11 tracks
+IV: 8 tracks
+In Step: 10 tracks
+In Through The Out Door: 7 tracks
+In Your Honor [Disc 1]: 10 tracks
+In Your Honor [Disc 2]: 10 tracks
+Instant Karma: The Amnesty International Campaign to Save Darfur: 23 tracks
+International Superhits: 21 tracks
+Into The Light: 12 tracks
+Iron Maiden: 9 tracks
+J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro: 1 tracks
+Jagged Little Pill: 13 tracks
+Jorge Ben Jor 25 Anos: 14 tracks
+Jota Quest-1995: 12 tracks
+Judas 0: B-Sides and Rarities: 16 tracks
+Kill 'Em All: 10 tracks
+Killers: 10 tracks
+King For A Day Fool For A Lifetime: 15 tracks
+Knocking at Your Back Door: The Best Of Deep Purple in the 80's: 11 tracks
+Koyaanisqatsi (Soundtrack from the Motion Picture): 1 tracks
+LOST, Season 4: 17 tracks
+Led Zeppelin I: 9 tracks
+Led Zeppelin II: 9 tracks
+Led Zeppelin III: 10 tracks
+Let There Be Rock: 8 tracks
+Liszt - 12 Études D'Execution Transcendante: 1 tracks
+Live After Death: 18 tracks
+Live At Donington 1992 (Disc 1): 10 tracks
+Live At Donington 1992 (Disc 2): 10 tracks
+Live On Two Legs [Live]: 16 tracks
+Live [Disc 1]: 10 tracks
+Live [Disc 2]: 9 tracks
+Living After Midnight: 16 tracks
+Load: 14 tracks
+Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3: 1 tracks
+Lost, Season 1: 25 tracks
+Lost, Season 2: 24 tracks
+Lost, Season 3: 26 tracks
+Lulu Santos - RCA 100 Anos De Música - Álbum 01: 14 tracks
+Lulu Santos - RCA 100 Anos De Música - Álbum 02: 14 tracks
+MK III The Final Concerts [Disc 1]: 7 tracks
+Machine Head: 7 tracks
+Mais Do Mesmo: 16 tracks
+Maquinarama: 12 tracks
+Mascagni: Cavalleria Rusticana: 1 tracks
+Master Of Puppets: 8 tracks
+Mendelssohn: A Midsummer Night's Dream: 1 tracks
+Meus Momentos: 14 tracks
+Mezmerize: 11 tracks
+Miles Ahead: 14 tracks
+Milton Nascimento Ao Vivo: 13 tracks
+Minas: 13 tracks
+Minha Historia: 34 tracks
+Minha História: 14 tracks
+Misplaced Childhood: 10 tracks
+Monteverdi: L'Orfeo: 1 tracks
+Morning Dance: 9 tracks
+Motley Crue Greatest Hits: 17 tracks
+Mozart Gala: Famous Arias: 1 tracks
+Mozart: Chamber Music: 1 tracks
+Mozart: Symphonies Nos. 40 & 41: 1 tracks
+Mozart: Wind Concertos: 1 tracks
+Muso Ko: 2 tracks
+My Generation - The Very Best Of The Who: 20 tracks
+My Way: The Best Of Frank Sinatra [Disc 1]: 24 tracks
+Na Pista: 10 tracks
+Nevermind: 12 tracks
+New Adventures In Hi-Fi: 14 tracks
+News Of The World: 11 tracks
+Nielsen: The Six Symphonies: 1 tracks
+No More Tears (Remastered): 2 tracks
+No Prayer For The Dying: 10 tracks
+No Security: 14 tracks
+O Samba Poconé: 11 tracks
+Olodum: 14 tracks
+One By One: 11 tracks
+Original Soundtracks 1: 14 tracks
+Os Cães Ladram Mas A Caravana Não Pára: 16 tracks
+Out Of Exile: 12 tracks
+Out Of Time: 11 tracks
+Outbreak: 9 tracks
+Pachelbel: Canon & Gigue: 1 tracks
+Palestrina: Missa Papae Marcelli & Allegri: Miserere: 1 tracks
+Pavarotti's Opera Made Easy: 1 tracks
+Pearl Jam: 13 tracks
+Physical Graffiti [Disc 1]: 6 tracks
+Physical Graffiti [Disc 2]: 9 tracks
+Piece Of Mind: 9 tracks
+Plays Metallica By Four Cellos: 8 tracks
+Pop: 12 tracks
+Powerslave: 8 tracks
+Prenda Minha: 18 tracks
+Presence: 7 tracks
+Prokofiev: Romeo & Juliet: 1 tracks
+Prokofiev: Symphony No.1: 1 tracks
+Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps: 1 tracks
+Puccini: Madama Butterfly - Highlights: 1 tracks
+Purcell: Music for the Queen Mary: 1 tracks
+Purcell: The Fairy Queen: 1 tracks
+Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]: 18 tracks
+Purpendicular: 12 tracks
+Quanta Gente Veio Ver (Live): 15 tracks
+Quanta Gente Veio ver--Bônus De Carnaval: 3 tracks
+Quiet Songs: 2 tracks
+Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro: 17 tracks
+Rattle And Hum: 17 tracks
+Raul Seixas: 14 tracks
+ReLoad: 13 tracks
+Realize: 2 tracks
+Respighi:Pines of Rome: 1 tracks
+Restless and Wild: 3 tracks
+Retrospective I (1974-1980): 14 tracks
+Revelations: 14 tracks
+Ride The Lightning: 8 tracks
+Riot Act: 15 tracks
+Rock In Rio [CD1]: 10 tracks
+Rock In Rio [CD2]: 9 tracks
+Roda De Funk: 16 tracks
+Rotten Apples: Greatest Hits: 18 tracks
+SCRIABIN: Vers la flamme: 1 tracks
+Sambas De Enredo 2001: 14 tracks
+Santana - As Years Go By: 8 tracks
+Santana Live: 6 tracks
+Scheherazade: 1 tracks
+Schubert: The Late String Quartets & String Quintet (3 CD's): 1 tracks
+Seek And Shall Find: More Of The Best (1963-1981): 18 tracks
+Serie Sem Limite (Disc 1): 15 tracks
+Serie Sem Limite (Disc 2): 15 tracks
+Seventh Son of a Seventh Son: 8 tracks
+Sex Machine: 20 tracks
+Sibelius: Finlandia: 1 tracks
+Sir Neville Marriner: A Celebration: 1 tracks
+Slaves And Masters: 9 tracks
+Somewhere in Time: 8 tracks
+South American Getaway: 1 tracks
+Sozinho Remix Ao Vivo: 3 tracks
+Speak of the Devil: 12 tracks
+St. Anger: 11 tracks
+Stormbringer: 9 tracks
+Strauss: Waltzes: 1 tracks
+Supernatural: 13 tracks
+Surfing with the Alien (Remastered): 10 tracks
+Synkronized: 11 tracks
+Szymanowski: Piano Works, Vol. 1: 1 tracks
+Tangents: 15 tracks
+Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory: 1 tracks
+Tchaikovsky: The Nutcracker: 1 tracks
+Temple of the Dog: 10 tracks
+Ten: 11 tracks
+The Battle Rages On: 10 tracks
+The Beast Live: 10 tracks
+The Best Of 1980-1990: 14 tracks
+The Best Of Billy Cobham: 8 tracks
+The Best Of Buddy Guy - The Millenium Collection: 11 tracks
+The Best Of Men At Work: 10 tracks
+The Best Of R.E.M.: The IRS Years: 16 tracks
+The Best Of Van Halen, Vol. I: 17 tracks
+The Best of Beethoven: 1 tracks
+The Best of Ed Motta: 14 tracks
+The Colour And The Shape: 13 tracks
+The Cream Of Clapton: 18 tracks
+The Doors: 11 tracks
+The Essential Miles Davis [Disc 1]: 13 tracks
+The Essential Miles Davis [Disc 2]: 10 tracks
+The Final Concerts (Disc 2): 4 tracks
+The Last Night of the Proms: 1 tracks
+The Number of The Beast: 8 tracks
+The Office, Season 1: 6 tracks
+The Office, Season 2: 22 tracks
+The Office, Season 3: 25 tracks
+The Police Greatest Hits: 14 tracks
+The Real Thing: 11 tracks
+The Return Of The Space Cowboy: 11 tracks
+The Singles: 18 tracks
+The Song Remains The Same (Disc 1): 5 tracks
+The Song Remains The Same (Disc 2): 4 tracks
+The Ultimate Relexation Album: 1 tracks
+The World of Classical Favourites: 2 tracks
+The X Factor: 11 tracks
+Transmission: 11 tracks
+Tribute: 14 tracks
+UB40 The Best Of - Volume Two [UK]: 14 tracks
+Un-Led-Ed: 1 tracks
+Unplugged: 30 tracks
+Unplugged [Live]: 15 tracks
+Up An' Atom: 22 tracks
+Use Your Illusion I: 16 tracks
+Use Your Illusion II: 14 tracks
+Van Halen: 11 tracks
+Van Halen III: 12 tracks
+Vault: Def Leppard's Greatest Hits: 16 tracks
+Vinicius De Moraes: 15 tracks
+Vinícius De Moraes - Sem Limite: 15 tracks
+Virtual XI: 8 tracks
+Vivaldi: The Four Seasons: 1 tracks
+Volume Dois: 16 tracks
+Voodoo Lounge: 15 tracks
+Vozes do MPB: 14 tracks
+Vs.: 12 tracks
+Wagner: Favourite Overtures: 1 tracks
+Walking Into Clarksdale: 12 tracks
+War: 10 tracks
+Warner 25 Anos: 14 tracks
+Weill: The Seven Deadly Sins: 1 tracks
+Worlds: 1 tracks
+Zooropa: 10 tracks
+[1997] Black Light Syndrome: 7 tracks
+
+4) TopThreeAlbumsMostTracks:
+Greatest Hits: 57 tracks
+Minha Historia: 34 tracks
+Unplugged: 30 tracks
+
+5) TracksByComposer:
+Composer: A. F. Iommi, W. Ward, T. Butler, J. Osbourne, Tracks: 3
+Composer: A. Jamal, Tracks: 1
+Composer: A.Bouchard/J.Bouchard/S.Pearlman, Tracks: 1
+Composer: A.Isbell/A.Jones/O.Redding, Tracks: 1
+Composer: AC/DC, Tracks: 8
+Composer: Aaron Copland, Tracks: 1
+Composer: Aaron Goldberg, Tracks: 1
+Composer: Ace Frehley, Tracks: 2
+Composer: Acyi Marques/Arlindo Bruz/Braço, Beto Sem/Zeca Pagodinho, Tracks: 1
+Composer: Acyr Marques/Arlindo Cruz/Franco, Tracks: 1
+Composer: Adalto Magalha/Lourenco, Tracks: 1
+Composer: Adam Clayton, Bono, Larry Mullen & The Edge, Tracks: 11
+Composer: Adam Clayton, Bono, Larry Mullen, The Edge, Tracks: 11
+Composer: Addie William Jones/Nat Jones, Tracks: 1
+Composer: Adrian Smith, Tracks: 5
+Composer: Adrian Smith/Bruce Dickinson, Tracks: 6
+Composer: Adrian Smith/Bruce Dickinson/Nicko McBrain, Tracks: 1
+Composer: Adrian Smith/Bruce Dickinson/Steve Harris, Tracks: 8
+Composer: Adrian Smith/Clive Burr/Steve Harris, Tracks: 1
+Composer: Adrian Smith/Steve Harris, Tracks: 5
+Composer: Adrian Smith; Bruce Dickinson, Tracks: 1
+Composer: Adrian Smith; Bruce Dickinson; Steve Harris, Tracks: 3
+Composer: Adrian Vanderberg/David Coverdale, Tracks: 1
+Composer: Adriano Bernandes/Edmar Neves, Tracks: 1
+Composer: Al Cleveland/Marvin Gaye/Renaldo Benson, Tracks: 1
+Composer: Al Perkins/Willie Dixon, Tracks: 1
+Composer: Alanis Morissette & Glenn Ballard, Tracks: 13
+Composer: Alba Carvalho/Fernando Porto, Tracks: 1
+Composer: Albert King, Tracks: 1
+Composer: Alcides Dias Lopes, Tracks: 1
+Composer: Alcino Corrêa/Monarco, Tracks: 1
+Composer: Aldir Blanc/Jayme Vignoli, Tracks: 1
+Composer: Alex North/Hy Zaret, Tracks: 1
+Composer: Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony, Tracks: 7
+Composer: Alexandre Brazil/Pedro Luis/Rodrigo Cabelo, Tracks: 1
+Composer: Alfred Ellis/James Brown, Tracks: 2
+Composer: Allen Story/George Gordy/Robert Gordy, Tracks: 1
+Composer: Almir Guineto/Dedé Paraiso/Luverci Ernesto, Tracks: 1
+Composer: Amos Blakemore/Buddy Guy, Tracks: 1
+Composer: Andrea Dulbecco, Tracks: 1
+Composer: Angus Young, Malcolm Young, Brian Johnson, Tracks: 10
+Composer: Anonymous, Tracks: 1
+Composer: Anthony Kiedis, Flea, John Frusciante, and Chad Smith, Tracks: 16
+Composer: Anthony Kiedis/Chad Smith/Flea/John Frusciante, Tracks: 19
+Composer: Antonio Carlos Jobim, Tracks: 1
+Composer: Antonio Carlos Jobim/Vinicius de Moraes, Tracks: 1
+Composer: Antonio Lopes, Tracks: 1
+Composer: Antonio Vivaldi, Tracks: 1
+Composer: Apocalyptica, Tracks: 8
+Composer: Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao, Tracks: 1
+Composer: Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina Pérolo/Zeca Pagodinho, Tracks: 1
+Composer: Arnaldo Antunes, Tracks: 1
+Composer: Arnaldo Antunes/Britto, SergioMiklos, Paulo, Tracks: 1
+Composer: Arnaldo Antunes/Charles Gavin/Marcelo Fromer/Sérgio Britto/Toni Bellotto, Tracks: 1
+Composer: Arnaldo Anutnes/Branco Mello/Marcelo Fromer/Sergio Brotto/Toni Bellotto, Tracks: 1
+Composer: Arnaldo Anutnes/Marcelo Fromer/Paulo Miklos, Tracks: 1
+Composer: Arnaldo Baptista - Rita Lee, Tracks: 2
+Composer: Arnaldo Baptista - Rita Lee -  Sérgio Dias, Tracks: 1
+Composer: Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho, Tracks: 1
+Composer: Arnaldo Baptista - Rita Lee - Sérgio Dias, Tracks: 1
+Composer: Arnaldo Baptista/Rita Lee/Sérgio Dias, Tracks: 1
+Composer: Arthur Crudup/Bernard Besman/Bukka White/Doc Pomus/John Bonham/John Lee Hooker/John Paul Jones/Mort Shuman/Robert Plant/Willie Dixon, Tracks: 1
+Composer: Astor Campbell, Delroy "Chris" Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek, Tracks: 1
+Composer: Astor Piazzolla, Tracks: 1
+Composer: Audioslave/Chris Cornell, Tracks: 14
+Composer: Augusto Conceição/Chiclete Com Banana, Tracks: 1
+Composer: Augusto Garcez/Nelson Cavaquinho, Tracks: 1
+Composer: Augusto/Craig Negoescu/Rocco Filho/Saara, Ze Carlos Da, Tracks: 1
+Composer: B. Carter/C. Layton/R. Ellsworth/R. Wynans/T. Shannon, Tracks: 1
+Composer: B. Cummings/G. Peterson/M.J. Kale/R. Bachman, Tracks: 1
+Composer: B. Daisley, O. Osbourne & R. Rhoads, Tracks: 2
+Composer: B. Guy, Tracks: 1
+Composer: B. de Filippi - F. Migliaci - Versão: Fred Jorge, Tracks: 1
+Composer: Baden Powell/Vinicius de Moraes, Tracks: 1
+Composer: Bahiano/Chuck Rio/Diego Blanco/Herbert Vianna, Tracks: 1
+Composer: Bahiano/Diego Blanco/Herbert Vianna, Tracks: 1
+Composer: Barrett Strong/Norman Whitfield, Tracks: 2
+Composer: Barrett Strong/Norman Whitfield/Roger Penzabene, Tracks: 1
+Composer: Ben E.King/James Bethea, Tracks: 1
+Composer: Ben Shepherd/Chris Cornell, Tracks: 1
+Composer: Ben Shepherd/Chris Cornell/Kim Thayil/Matt Cameron, Tracks: 1
+Composer: Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido, Tracks: 1
+Composer: Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido, Tracks: 1
+Composer: Bernardo Vilhena/Da Gama/Lazao, Tracks: 1
+Composer: Bernardo Vilhena/Da Gama/Lazão, Tracks: 1
+Composer: Berry Gordy, Jr./Janie Bradford, Tracks: 1
+Composer: Bert Russell/Phil Medley, Tracks: 1
+Composer: Beto Gogo/Jessé Pai/Luiz Carlos/Zeca Pagodinho, Tracks: 1
+Composer: Beto Guedes, Márcio Borges, Tracks: 1
+Composer: Beto Guedes, Ronaldo Bastos, Tracks: 1
+Composer: Beto Guedes/Fernando Brant/L Borges, Tracks: 1
+Composer: Betty Newsome/James Brown, Tracks: 1
+Composer: Bi Ribeira/Herbert Vianna/João Barone, Tracks: 1
+Composer: Bi Ribeiro/Herbert Vianna/João Barone, Tracks: 1
+Composer: Big Bill Broonzy, Tracks: 1
+Composer: Bill Berry-Peter Buck-Mike Mills-Michael Stipe, Tracks: 25
+Composer: Bill Berry/Michael Stipe/Mike Mills/Peter Buck, Tracks: 11
+Composer: Bill Dees/Roy Orbison, Tracks: 1
+Composer: Bill Gould/Jon Hudson/Mike Bordin/Mike Patton, Tracks: 1
+Composer: Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum, Tracks: 2
+Composer: Bill Gould/Mike Bordin/Mike Patton, Tracks: 2
+Composer: Bill Gould/Mike Patton, Tracks: 2
+Composer: Billie Joe Armstrong -Words Green Day -Music, Tracks: 20
+Composer: Billie Joe Armstrong, Mike Dirnt, Tré Cool, Tracks: 2
+Composer: Billie Joe Armstrong/Green Day, Tracks: 1
+Composer: Billy Cobham, Tracks: 7
+Composer: Billy Corgan, Tracks: 31
+Composer: Billy Duffy/Bob Rock/Ian Astbury, Tracks: 2
+Composer: Billy Duffy/Ian Astbury, Tracks: 9
+Composer: Billy Duffy/Ian Astbury/Marti Frederiksen/Mick Jones, Tracks: 1
+Composer: Billy Roberts, Tracks: 1
+Composer: Billy/Del James/W. Axl Rose/West Arkeen, Tracks: 1
+Composer: Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers, Tracks: 1
+Composer: Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido, Tracks: 1
+Composer: Bino Farias/Da Gama/Lazão/Rás Bernardo, Tracks: 1
+Composer: Bino Farias/Da Gama/Lazão/Toni Garrido, Tracks: 4
+Composer: Bino Farias/Da Gamma/Lazão/Rás Bernard, Tracks: 1
+Composer: Bino/Da Gama/Lazao/Ras Bernardo, Tracks: 1
+Composer: Bino/Da Gama/Ras Bernardo, Tracks: 2
+Composer: Bino/Da Gama/Toni Garrido, Tracks: 1
+Composer: Bino/Da Gamma/Lazao/Toni Garrido, Tracks: 1
+Composer: Bizuca/Clóvis Pê/Gilson Bernini/Marelo D'Aguia, Tracks: 1
+Composer: Black Sabbath, Tracks: 1
+Composer: Blackmore, Gillan, Glover, Lord, Paice, Tracks: 7
+Composer: Blackmore, Glover, Turner, Tracks: 4
+Composer: Blackmore, Glover, Turner, Lord, Paice, Tracks: 4
+Composer: Blackmore/Coverdale, Tracks: 1
+Composer: Blackmore/Coverdale/Lord/Paice, Tracks: 1
+Composer: Blackmore/Gillan/Glover/Lord/Paice, Tracks: 1
+Composer: Blaze Bayley/David Murray/Steve Harris, Tracks: 1
+Composer: Blaze Bayley/Janick Gers, Tracks: 2
+Composer: Blaze Bayley/Janick Gers/Steve Harris, Tracks: 4
+Composer: Blaze Bayley/Steve Harris, Tracks: 1
+Composer: Bo Diddley, Tracks: 1
+Composer: Bob Cochran/Sharon Sheeley, Tracks: 1
+Composer: Bob Dylan, Tracks: 1
+Composer: Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich, Tracks: 11
+Composer: Bobby Byrd/James Brown/Ron Lenhoff, Tracks: 1
+Composer: Bolin/Coverdale, Tracks: 4
+Composer: Bolin/Coverdale/Paice, Tracks: 1
+Composer: Bolin/Hughes, Tracks: 1
+Composer: Bolin/Hughes/Lord, Tracks: 1
+Composer: Bombom/Ed Motta, Tracks: 1
+Composer: Bono, Tracks: 1
+Composer: Bono, The Edge, Adam Clayton, and Larry Mullen, Tracks: 12
+Composer: Bono/Clayton, Adam/Dylan, Bob/Mullen Jr., Larry/The Edge, Tracks: 1
+Composer: Bono/Clayton, Adam/Mullen Jr., Larry/The Edge, Tracks: 12
+Composer: Bossi/David Coverdale/Earl Slick, Tracks: 2
+Composer: Bourge/Phillips/Shelley, Tracks: 2
+Composer: Brad Shapiro/George Jackson/Robert Miller/Walter Shaw, Tracks: 1
+Composer: Branco Mello/Carlos Barmack/Ciro Pessoa/Marcelo Fromer/Toni Belloto, Tracks: 1
+Composer: Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr., Tracks: 14
+Composer: Brian Eno/U2, Tracks: 1
+Composer: Brian Holland/Eddie Holland/Lamont Dozier, Tracks: 1
+Composer: Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett, Tracks: 1
+Composer: Brian May, Tracks: 2
+Composer: Bruce Dickinson, Tracks: 3
+Composer: Bruce Dickinson/David Murray, Tracks: 3
+Composer: Bruce Dickinson/David Murray/Steve Harris, Tracks: 4
+Composer: Bruce Dickinson/Janick Gers, Tracks: 5
+Composer: Bruce Dickinson/Janick Gers/Steve Harris, Tracks: 5
+Composer: Bruce Dickinson/Steve Harris, Tracks: 4
+Composer: Bruce Dickinson; Harris, Tracks: 1
+Composer: Bruce/Clapton, Tracks: 3
+Composer: Bryan Adams/Nikki Sixx/Scott Humphrey, Tracks: 1
+Composer: Buchanan, Wallis, Tracks: 1
+Composer: Buddy Guy, Tracks: 3
+Composer: Buzz Cason/Mac Gayden, Tracks: 1
+Composer: Béla Bartók, Tracks: 1
+Composer: C. A./C.A./Celso Alvim/Herbert Vianna/Mário Moura/Pedro Luís/Sidon Silva, Tracks: 1
+Composer: C. Burnett, Tracks: 1
+Composer: C. Cester, Tracks: 1
+Composer: C. Cester/C. Muncey, Tracks: 1
+Composer: C. Cester/C. Muncey/N. Cester, Tracks: 3
+Composer: C. Cester/N. Cester, Tracks: 4
+Composer: C. Muncey/N. Cester, Tracks: 3
+Composer: C.Burton, Tracks: 1
+Composer: Caetano Veloso, Tracks: 10
+Composer: Caetano Veloso - Djavan, Tracks: 1
+Composer: Caetano Veloso - Gilberto Gil, Tracks: 1
+Composer: Caetano Veloso - Waly Salomão, Tracks: 1
+Composer: Caetano Veloso e Gilberto Gil, Tracks: 11
+Composer: Cal Adan/Del Rey, Tension/Edu Casanova, Tracks: 1
+Composer: Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill, Tracks: 1
+Composer: Cal Adan/Paulo Levi, Tracks: 1
+Composer: Cale/Clapton, Tracks: 1
+Composer: Carl Nielsen, Tracks: 1
+Composer: Carl Orff, Tracks: 1
+Composer: Carlinhos Brown, Tracks: 3
+Composer: Carlinhos Brown/Herbert Vianna, Tracks: 1
+Composer: Carlinhos Santana/Nelson Rufino, Tracks: 1
+Composer: Carlos Imperial/Edardo Araújo, Tracks: 1
+Composer: Carlos Imperial/Tim Maia, Tracks: 1
+Composer: Carlos Santana, Tracks: 3
+Composer: Carlos Santana & C. Thompson, Tracks: 1
+Composer: Carlos Santana & Dave Matthews, Tracks: 1
+Composer: Carlos Santana & KC Porter, Tracks: 1
+Composer: Carlos Santos/Ciro/Claudio Russo/Zé Luiz, Tracks: 1
+Composer: Carolyn Franklin and Sonny Saunders, Tracks: 1
+Composer: Caruso/Cleber/Deo/Osmar, Tracks: 1
+Composer: Cassiano Costa/Cintia Maviane/J.F./Lucas Costa, Tracks: 1
+Composer: Cave, Tracks: 1
+Composer: Charles Bobbitt/James Brown, Tracks: 2
+Composer: Charles Gavin/Marcelo Fromer/Sérgio Britto, Tracks: 1
+Composer: Charlie Midnight/Dan Hartman, Tracks: 1
+Composer: Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant, Tracks: 1
+Composer: Chet Catallo, Tracks: 1
+Composer: Chico Amaral/Edgard Scandurra/Samuel Rosa, Tracks: 1
+Composer: Chico Amaral/Lelo Zanettik, Tracks: 1
+Composer: Chico Amaral/Samuel Rosa, Tracks: 6
+Composer: Chico Buarque, Tracks: 1
+Composer: Chico Science, Tracks: 23
+Composer: Chico Science/Dengue/Lúcio Maia, Tracks: 1
+Composer: Chris Cornell, Tracks: 23
+Composer: Chris Cornell/Kim Thayil, Tracks: 4
+Composer: Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth, Tracks: 1
+Composer: Chris Robinson/Rich Robinson, Tracks: 18
+Composer: Chuck Berry, Tracks: 3
+Composer: Cidade Negra, Tracks: 1
+Composer: Ciro Pressoa/Marcelo Fromer, Tracks: 1
+Composer: Clapton, Tracks: 4
+Composer: Clapton/Collins/Pappalardi, Tracks: 1
+Composer: Clapton/Dylan, Tracks: 1
+Composer: Clapton/F.eldman/Linn, Tracks: 1
+Composer: Clapton/Gordon, Tracks: 1
+Composer: Clapton/Harrison, Tracks: 1
+Composer: Clapton/J. J. Cale, Tracks: 1
+Composer: Clapton/Levy, Tracks: 1
+Composer: Clapton/Robert Johnson Arr: Eric Clapton, Tracks: 1
+Composer: Clapton/Trad. Arr. Clapton, Tracks: 1
+Composer: Clarke/Farren/Kilmister/Tayler, Tracks: 1
+Composer: Clarke/Kilmister/Tayler, Tracks: 3
+Composer: Clarke/Kilmister/Taylor, Tracks: 13
+Composer: Claudio Martins/David Lima/Kleber Rodrigues/Livre, Cesare Som, Tracks: 1
+Composer: Claudio Monteverdi, Tracks: 1
+Composer: Cliff Burton, Tracks: 1
+Composer: Collins/Van Zandt, Tracks: 1
+Composer: Cook/Coverdale, Tracks: 1
+Composer: Cornell, Commerford, Morello, Wilk, Tracks: 12
+Composer: Corumbá/José Gumarães/Venancio, Tracks: 1
+Composer: Coverdale, Tracks: 5
+Composer: Coverdale/Hughes, Tracks: 1
+Composer: Coverdale/Hughes/Lord/Paice, Tracks: 1
+Composer: Coverdale/Lord/Paice, Tracks: 2
+Composer: Craig Ross/Lenny Kravitz, Tracks: 1
+Composer: Cub Coda/Michael Lutz, Tracks: 1
+Composer: Culmer/Exalt, Tracks: 1
+Composer: D. DeLeo/Kretz/R. DeLeo/Weiland, Tracks: 1
+Composer: D. DeLeo/Kretz/Weiland, Tracks: 2
+Composer: D. DeLeo/R. DeLeo/Weiland, Tracks: 1
+Composer: D.Coverdal/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord, Tracks: 1
+Composer: D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore, Tracks: 3
+Composer: D.Coverdale/G.Hughes/Glenn Hughes/J.Lord/John Lord, Tracks: 1
+Composer: D.Coverdale/G.Hughes/Glenn Hughes/R.Blackmore/Ritchie Blackmore, Tracks: 1
+Composer: D.Coverdale/R.Blackmore/Ritchie Blackmore, Tracks: 3
+Composer: Da Gama/Lazao/Toni Garrido, Tracks: 1
+Composer: Da Gama/Lazão/Rás Bernardo, Tracks: 1
+Composer: Da Gama/Toni Garrido, Tracks: 3
+Composer: Dadinho/Gilbreto Gomes/Gustavo/P.C. Portugal/R. Mocoto, Tracks: 1
+Composer: Dado Villa-Lobos, Tracks: 1
+Composer: Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonfá, Tracks: 1
+Composer: Dado Villa-Lobos/Marcelo Bonfá, Tracks: 8
+Composer: Dale Evans, Tracks: 1
+Composer: Daniel Lanois, Tracks: 1
+Composer: Danzig, Tracks: 2
+Composer: Darius "Take One" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris, Tracks: 2
+Composer: Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder, Tracks: 3
+Composer: Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard, Tracks: 12
+Composer: Dave Brubeck, Tracks: 1
+Composer: Dave Grohl, Tracks: 3
+Composer: Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett, Tracks: 10
+Composer: Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS, Tracks: 10
+Composer: Dave Krusen/Stone Gossard, Tracks: 1
+Composer: Dave Kushner, Duff, Keith Nelson, Matt Sorum, Scott Weiland & Slash, Tracks: 1
+Composer: Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash, Tracks: 12
+Composer: Dave Murray; Steve Harris, Tracks: 1
+Composer: Dave, Taylor, Nate, Chris, Tracks: 10
+Composer: David Cook, Tracks: 1
+Composer: David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto, Tracks: 1
+Composer: David Coverdale, Tracks: 5
+Composer: David Coverdale/Earl Slick, Tracks: 4
+Composer: David Murray/Paul Di'Anno/Steve Harris, Tracks: 4
+Composer: David Murray/Steve Harris, Tracks: 7
+Composer: De Beauport/Jagger/Richards, Tracks: 1
+Composer: Deacon, Tracks: 2
+Composer: Deacon, John, Tracks: 2
+Composer: Deacon, John/May, Brian, Tracks: 1
+Composer: Deacon/May/Mercury/Taylor, Tracks: 1
+Composer: Deaffy & R.A. Smith-Diesel, Tracks: 1
+Composer: Dean Brown, Dennis Chambers & Jim Beard, Tracks: 1
+Composer: Dean Deleo, Tracks: 1
+Composer: Deanna Brown/Deidra Jenkins/Yamma Brown, Tracks: 1
+Composer: Delroy "Chris" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole, Tracks: 1
+Composer: Derrick McKenzie/Jay Kay/Toby Smith, Tracks: 1
+Composer: Diamond/Shermann, Tracks: 1
+Composer: Dick Holler, Tracks: 1
+Composer: Dickinson, Tracks: 3
+Composer: Dickinson/Smith, Tracks: 1
+Composer: Dito/Djalma Falcao/Ilha, Almir Da/Márcio André, Tracks: 1
+Composer: Di´Anno/Harris, Tracks: 1
+Composer: Djavan, Tracks: 12
+Composer: Djavan - Gabriel, O Pensador, Tracks: 1
+Composer: Do Vale, João/Luiz Wanderley, Tracks: 1
+Composer: Do Vale, Valverde/Gal Oliveira/Luciano Pinto, Tracks: 1
+Composer: Dolmayan, John/Malakian, Daron/Odadjian, Shavo, Tracks: 4
+Composer: Dolores Duran, Tracks: 1
+Composer: Domenil/J. Brito/Joaozinho/Rap, Marcelo Do, Tracks: 1
+Composer: Dominguinhos/Gilberto Gil, Tracks: 1
+Composer: Don Van Vliet, Tracks: 2
+Composer: Donato/Gilberto Gil, Tracks: 1
+Composer: Douglas/Neves, Vicente Das/Silva, Gilmar L./Toninho Gentil/Wantuir, Tracks: 1
+Composer: Doyle Bramhall/Stevie Ray Vaughan, Tracks: 4
+Composer: Dudu Nobre, Tracks: 1
+Composer: Dudu Nobre/Zeca Pagodinho, Tracks: 1
+Composer: Duff McKagan, Tracks: 1
+Composer: Duff McKagan/Slash/W. Axl Rose, Tracks: 2
+Composer: Dufort/Johnson/McAuliffe/Williams, Tracks: 1
+Composer: Dylan, Bob, Tracks: 1
+Composer: E. Schrody/J. Vasquez/L. Dimant, Tracks: 1
+Composer: E. Schrody/L. Dimant, Tracks: 6
+Composer: E. Schrody/L. Dimant/L. Muggerud, Tracks: 1
+Composer: E. Schrody/L. Freese/L. Muggerud, Tracks: 1
+Composer: E. Schrody/L. Muggerud, Tracks: 5
+Composer: E. Schrody/L. Muggerud/R. Medrano, Tracks: 1
+Composer: E. Schrody/R. Medrano, Tracks: 2
+Composer: E. Shrody, Tracks: 1
+Composer: E.Weiss, Tracks: 2
+Composer: Eale-Eye Cherry, M. Simpson, J. King & M. Nishita, Tracks: 1
+Composer: Eddie Casillas/Roy Z, Tracks: 1
+Composer: Eddie Cochran/Jerry Capehart, Tracks: 1
+Composer: Eddie Vedder, Tracks: 12
+Composer: Eddie Vedder & Mike McCready, Tracks: 3
+Composer: Eddie Vedder & Stone Gossard, Tracks: 1
+Composer: Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard, Tracks: 1
+Composer: Edvard Grieg, Tracks: 1
+Composer: Edward Elgar, Tracks: 2
+Composer: Edward Van Halen, Alex Van Halen, David Lee Roth, Tracks: 2
+Composer: Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony, Tracks: 6
+Composer: Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth, Tracks: 9
+Composer: Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth, Tracks: 2
+Composer: Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar, Tracks: 4
+Composer: Emerson Villani, Tracks: 1
+Composer: Enotris Johnson/Little Richard/Robert "Bumps" Blackwell, Tracks: 1
+Composer: Erasmo Carlos/Roberto Carlos, Tracks: 1
+Composer: Eric Clapton, Tracks: 2
+Composer: Eric Clapton, Jim Gordon, Tracks: 1
+Composer: Eric Clapton, Robert Cray, Tracks: 1
+Composer: Eric Clapton, Will Jennings, Tracks: 1
+Composer: Erik Satie, Tracks: 1
+Composer: Eugene McDaniel, Tracks: 1
+Composer: Eurreal Montgomery, Tracks: 1
+Composer: F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman, Tracks: 1
+Composer: F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman, Tracks: 1
+Composer: F. Olivera, Tracks: 1
+Composer: Faith No More, Tracks: 10
+Composer: Faithfull/Jagger/Richards, Tracks: 1
+Composer: Fausto Fawcett/Samuel Rosa, Tracks: 1
+Composer: Fausto Nilo - Armandinho, Tracks: 1
+Composer: Fausto Nilo/Moraes Moreira/Pepeu Gomes, Tracks: 1
+Composer: Fayyaz Virgi/Richard Bull, Tracks: 1
+Composer: Fito Paez/Herbert Vianna, Tracks: 1
+Composer: Flavio Bororo/Paulo Apparicio/Wagner Alves/Zeca Sereno, Tracks: 1
+Composer: Folclore, Tracks: 1
+Composer: Foo Fighters, Tracks: 11
+Composer: Frank Zappa, Tracks: 7
+Composer: Franz Joseph Haydn, Tracks: 1
+Composer: Franz Schubert, Tracks: 2
+Composer: Fred Wesley/James Brown, Tracks: 1
+Composer: Fred Wesley/James Brown/Joseph Mims, Tracks: 1
+Composer: Freddie Mercury, Tracks: 1
+Composer: Freddie Mercury & John Deacon, Tracks: 1
+Composer: Freddy James, Jimmy hogarth & Larry Stock, Tracks: 1
+Composer: Frédéric Chopin, Tracks: 1
+Composer: Full Force/James Brown, Tracks: 1
+Composer: Fábio Nolasco/Gal Sales/Ivan Brasil, Tracks: 1
+Composer: G Harvey/R Hope-Taylor, Tracks: 1
+Composer: G M Sumner, Tracks: 14
+Composer: Gabriel Fauré, Tracks: 1
+Composer: Galley, Tracks: 1
+Composer: Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira, Tracks: 1
+Composer: Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush, Tracks: 14
+Composer: Gelder, Nick van, Tracks: 1
+Composer: Gene Simmons, Tracks: 7
+Composer: Gene Simmons, S. Coronel, Tracks: 2
+Composer: Gene Simmons, Stephen Coronel, Tracks: 1
+Composer: Genival Cassiano, Tracks: 1
+Composer: Genival Cassiano/Silvio Rochael, Tracks: 1
+Composer: George Duke, Tracks: 1
+Composer: George Frideric Handel, Tracks: 3
+Composer: Georges Bizet, Tracks: 1
+Composer: Gerry DeVeaux/Terry Britten, Tracks: 1
+Composer: Giacomo Puccini, Tracks: 2
+Composer: Gil Evans, Tracks: 2
+Composer: Gilberto Gil, Tracks: 23
+Composer: Gilberto Gil - Caetano Veloso, Tracks: 1
+Composer: Gillan/Glover/Lord/Nix - Blackmore/Paice, Tracks: 1
+Composer: Gillan/Glover/Lord/Paice, Tracks: 1
+Composer: Gilmour, Mason, Wright, Waters, Tracks: 1
+Composer: Gilmour, Waters, Tracks: 1
+Composer: Gilson Mendonça/Michel, Tracks: 1
+Composer: Giovanni Pierluigi da Palestrina, Tracks: 1
+Composer: Giuseppe Verdi, Tracks: 1
+Composer: Gonzaga Jr, Tracks: 1
+Composer: Gonzaga Jr., Tracks: 3
+Composer: Gonzaga Jr/Gonzaguinha, Tracks: 1
+Composer: Gonzaguinha, Tracks: 1
+Composer: Graham Harvey, Tracks: 1
+Composer: Grazielle/Roque Ferreira, Tracks: 1
+Composer: Green Day, Tracks: 7
+Composer: Greg Macainsh, Tracks: 1
+Composer: Gregorio Allegri, Tracks: 1
+Composer: Guga/Marquinho Lessa/Tuninho Professor, Tracks: 1
+Composer: Guio De Morais E Seus "Parentes"/Luiz Gonzaga, Tracks: 1
+Composer: Gule/Jorge 101/Lequinho/Luiz Piao, Tracks: 1
+Composer: Gustav Holst, Tracks: 1
+Composer: Gustav Mahler, Tracks: 1
+Composer: H. Spina, J. Elliott, Tracks: 2
+Composer: Habib Koité, Tracks: 2
+Composer: Harris, Tracks: 7
+Composer: Harris/Di Anno, Tracks: 1
+Composer: Harris/Paul Di´Anno, Tracks: 2
+Composer: Harris/Tatler, Tracks: 4
+Composer: Harry Lawes/Winston Foster-Vers, Tracks: 1
+Composer: Hawkins-Lewis-Broadwater, Tracks: 1
+Composer: Heath/Robinson, Tracks: 1
+Composer: Hector Berlioz, Tracks: 1
+Composer: Hendrix, Jimi, Tracks: 1
+Composer: Henry Hirsch/Lenny Kravitz, Tracks: 1
+Composer: Henry Kirssch/Lenny Kravitz/S. Pasch A. Krizan, Tracks: 1
+Composer: Henry Purcell, Tracks: 2
+Composer: Henryk Górecki, Tracks: 1
+Composer: Herbert Vianna, Tracks: 19
+Composer: Herbert Vianna/Paulo Sérgio Valle, Tracks: 1
+Composer: Herbert Vianna/Tet Tillett, Tracks: 1
+Composer: Herbert Vianna/Tetê Tillet, Tracks: 1
+Composer: Hetfield, Ulrich, Tracks: 6
+Composer: Hetfield, Ulrich, Hammett, Tracks: 6
+Composer: Hetfield, Ulrich, Newsted, Tracks: 1
+Composer: Holocaust, Tracks: 1
+Composer: Humberto Teixeira/Luiz Gonzaga, Tracks: 4
+Composer: Hyldon, Tracks: 1
+Composer: I. Toure, S. Tidiane Toure, Carlos Santana & K. Perazzo, Tracks: 1
+Composer: Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice, Tracks: 12
+Composer: Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover, Tracks: 7
+Composer: Ian Stewart/John Bonham/John Paul Jones/Mrs. Valens/Robert Plant, Tracks: 1
+Composer: Igor Stravinsky, Tracks: 1
+Composer: Ira Gershwin, Kurt Weill, Tracks: 1
+Composer: Isham Jones & Marty Symes, Tracks: 1
+Composer: Ivan Kral/Patti Smith, Tracks: 1
+Composer: Ivy Hunter/Stevie Wonder, Tracks: 1
+Composer: Ivy Hunter/William "Mickey" Stevenson, Tracks: 1
+Composer: Ivy Jo Hunter/Marvin Gaye/William Stevenson, Tracks: 1
+Composer: Izzy Stradlin', Tracks: 1
+Composer: Izzy Stradlin'/W. Axl Rose, Tracks: 3
+Composer: J B Lenoir/Willie Dixon, Tracks: 2
+Composer: J. B. Lenoir/Willie Dixon, Tracks: 1
+Composer: J. C. Fogerty, Tracks: 17
+Composer: J. Carisi, Tracks: 2
+Composer: J. Kay/Jay Kay, Tracks: 2
+Composer: J. Purdell, M. Inez, O. Osbourne, R. Castillo & Z. Wylde, Tracks: 1
+Composer: J. Satriani, Tracks: 4
+Composer: J.C. Fogerty, Tracks: 20
+Composer: J.Hetfield/L.Ulrich, Tracks: 2
+Composer: J.J. Johnson, Tracks: 1
+Composer: J.J. Johnson/R. Troup, L. Worth, Tracks: 1
+Composer: J.r.Bertami/Parana, Tracks: 1
+Composer: Jack Yellen/Milton Ager, Tracks: 1
+Composer: Jagger/Richards, Tracks: 35
+Composer: Jagger/Richards/Oldham, Tracks: 1
+Composer: James Brown, Tracks: 3
+Composer: James Brown & Bobby Byrd, Tracks: 1
+Composer: James Brown/Johnny Terry, Tracks: 1
+Composer: James Brown/Tim Maia, Tracks: 1
+Composer: James Hetfield, Tracks: 1
+Composer: James Hetfield & Lars Ulrich, Tracks: 1
+Composer: James Hetfield and Lars Ulrich, Tracks: 2
+Composer: James Hetfield, Lars Ulrich, Tracks: 11
+Composer: James Hetfield, Lars Ulrich & Jason Newsted, Tracks: 1
+Composer: James Hetfield, Lars Ulrich & Kirk Hammett, Tracks: 2
+Composer: James Hetfield, Lars Ulrich and Cliff Burton, Tracks: 1
+Composer: James Hetfield, Lars Ulrich and Jason Newsted, Tracks: 1
+Composer: James Hetfield, Lars Ulrich and Kirk Hammett, Tracks: 6
+Composer: James Hetfield, Lars Ulrich, Dave Mustaine, Tracks: 4
+Composer: James Hetfield, Lars Ulrich, Kirk Hammett, Tracks: 7
+Composer: James Iha, Tracks: 1
+Composer: Janick Gers/Steve Harris, Tracks: 9
+Composer: Jauperi/Zeu Góes, Tracks: 1
+Composer: Jay Beckenstein, Tracks: 3
+Composer: Jay Hawkins, Tracks: 1
+Composer: Jay Kay, Tracks: 4
+Composer: Jay Kay/Kay, Jay, Tracks: 2
+Composer: Jay Kay/Toby Smith, Tracks: 5
+Composer: Jean Paul Maunick, Tracks: 2
+Composer: Jean Sibelius, Tracks: 1
+Composer: Jeff Ament, Tracks: 7
+Composer: Jeff Ament & Eddie Vedder, Tracks: 1
+Composer: Jeff Ament & Stone Gossard & Jack Irons & Mike McCready & Eddie Vedder, Tracks: 1
+Composer: Jeff Ament/Mike McCready/Stone Gossard, Tracks: 1
+Composer: Jeff Ament/Stone Gossard, Tracks: 3
+Composer: Jeremy Wall, Tracks: 4
+Composer: Jerry Cantrell, Tracks: 6
+Composer: Jerry Cantrell, Layne Staley, Tracks: 4
+Composer: Jerry Cantrell, Michael Starr, Layne Staley, Tracks: 1
+Composer: Jerry Cantrell, Michael Starr, Sean Kinney, Tracks: 1
+Composer: Jerry Lynn Williams, Tracks: 1
+Composer: Jerry Ragavoy, Tracks: 1
+Composer: Jesse Ed Davis III/Taj Mahal, Tracks: 1
+Composer: Jesse Fuller, Tracks: 1
+Composer: Jim Beard, Tracks: 2
+Composer: Jim Beard & Jon Herington, Tracks: 1
+Composer: Jimi Hendrix, Tracks: 16
+Composer: Jimmy Cox, Tracks: 1
+Composer: Jimmy Forrest/Lewis C. Simpkins/Oscar Washington, Tracks: 1
+Composer: Jimmy Page, Tracks: 6
+Composer: Jimmy Page & Robert Plant, Tracks: 1
+Composer: Jimmy Page, Robert Plant, Tracks: 15
+Composer: Jimmy Page, Robert Plant & John Paul Jones, Tracks: 3
+Composer: Jimmy Page, Robert Plant, Charlie Jones, Michael Lee, Tracks: 12
+Composer: Jimmy Page, Robert Plant, John Bonham, Tracks: 1
+Composer: Jimmy Page, Robert Plant, John Bonham, John Paul Jones, Tracks: 1
+Composer: Jimmy Page, Robert Plant, John Paul Jones, Tracks: 5
+Composer: Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Tracks: 4
+Composer: Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Memphis Minnie, Tracks: 1
+Composer: Jimmy Page/Jimmy Page & Robert Plant/Robert Plant, Tracks: 4
+Composer: Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant, Tracks: 1
+Composer: Jimmy Page/John Bonham/John Paul Jones, Tracks: 6
+Composer: Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon, Tracks: 1
+Composer: Jimmy Page/John Paul Jones, Tracks: 1
+Composer: Jimmy Page/Led Zeppelin, Tracks: 1
+Composer: Jimmy Page/Robert Johnson/Robert Plant, Tracks: 1
+Composer: Jimmy Page/Robert Plant, Tracks: 12
+Composer: Jimmy and Vella Cameron, Tracks: 1
+Composer: Joe Strummer/Mick Jones, Tracks: 9
+Composer: Johann Pachelbel, Tracks: 1
+Composer: Johann Sebastian Bach, Tracks: 7
+Composer: Johann Strauss II, Tracks: 1
+Composer: John Adams, Tracks: 1
+Composer: John Bonham, Tracks: 2
+Composer: John Bonham, John Paul Jones, Jimmy Page, Tracks: 1
+Composer: John Bonham/John Paul Jones, Tracks: 6
+Composer: John Bonham/John Paul Jones/Robert Plant, Tracks: 2
+Composer: John Bonham/John Paul Jones/Robert Plant/Willie Dixon, Tracks: 1
+Composer: John Brim, Tracks: 1
+Composer: John Deacon, Tracks: 1
+Composer: John Dowland, Tracks: 1
+Composer: John Entwistle, Tracks: 1
+Composer: John Entwistle/Pete Townshend, Tracks: 5
+Composer: John Lennon, Paul McCartney, Tracks: 1
+Composer: John Paul Jones, Tracks: 2
+Composer: John Paul Jones & Robert Plant, Tracks: 1
+Composer: John Paul Jones, Jimmy Page & Robert Plant, Tracks: 1
+Composer: John Paul Jones/Robert Plant, Tracks: 6
+Composer: John Scofield, Tracks: 1
+Composer: John Scofield, Robert Aries, Milton Chambers and Gary Grainger, Tracks: 1
+Composer: John and William Valentine, Tracks: 1
+Composer: Jon Herington, Tracks: 1
+Composer: Jon Hudson/Mike Bordin/Mike Patton, Tracks: 1
+Composer: Jon Hudson/Mike Patton, Tracks: 1
+Composer: Jones/Sirotto/Smith, Tracks: 1
+Composer: Jorge Aragão/Zeca Pagodinho, Tracks: 1
+Composer: Jorge Ben, Tracks: 2
+Composer: Jorge Cardoso/Pierre Onasis, Tracks: 1
+Composer: Jorge Vercilo/Jota Maranhao, Tracks: 1
+Composer: João Suplicy, Tracks: 14
+Composer: Julian Crampton, Tracks: 1
+Composer: K.Hammett, Tracks: 5
+Composer: KC Porter & JB Eckl, Tracks: 1
+Composer: Karol Szymanowski, Tracks: 1
+Composer: Karsh Kale, Tracks: 1
+Composer: Karsh Kale/Vishal Vaid, Tracks: 1
+Composer: Keith Richards/Mick Jagger, Tracks: 1
+Composer: Kelly, Mosley, Rothery, Trewaves, Tracks: 10
+Composer: Kenny Gamble and Leon Huff, Tracks: 1
+Composer: Kevin Robinson, Tracks: 1
+Composer: Kevin Robinson/Richard Bull, Tracks: 1
+Composer: Killing Joke, Tracks: 1
+Composer: Kretz/R. DeLeo/Weiland, Tracks: 1
+Composer: Kurt Cobain, Tracks: 26
+Composer: Kurt Weill, Tracks: 1
+Composer: L. Delibes, Tracks: 1
+Composer: L. Hill, Tracks: 1
+Composer: L. Kerslake, O. Osbourne, R. Daisley & R. Rhoads, Tracks: 1
+Composer: L. Kilmister, O. Osbourne & Z. Wylde, Tracks: 1
+Composer: L. Muggerud, Tracks: 2
+Composer: Larry Williams, Tracks: 2
+Composer: Lennon, John/McCartney, Paul, Tracks: 1
+Composer: Lenny Kravitz, Tracks: 9
+Composer: Lenny Kravitz/Slash, Tracks: 1
+Composer: Leão, Rodrigo F./Lô Borges/Samuel Rosa, Tracks: 1
+Composer: Leão, Rodrigo F./Samuel Rosa, Tracks: 1
+Composer: Little Richard, Tracks: 1
+Composer: Lowman Pauling, Tracks: 1
+Composer: Luca Gusella, Tracks: 1
+Composer: Luciana Souza, Tracks: 1
+Composer: Lucina/Luli, Tracks: 1
+Composer: Ludwig van Beethoven, Tracks: 5
+Composer: Luiz Carlos/Oberdan, Tracks: 1
+Composer: Luiz Gonzaga/Zé Dantas, Tracks: 1
+Composer: Luiz Melodia/Ricardo Augusto, Tracks: 1
+Composer: Luiz Wanderley/Paulo Levi, Tracks: 1
+Composer: Luke Smith, Tracks: 1
+Composer: Lulu Santos, Tracks: 2
+Composer: Lô Borges, Fernando Brant, Tracks: 1
+Composer: Lô Borges, Márcio Borges, Fernando Brant, Tracks: 1
+Composer: M. Itaal Shur & Rob Thomas, Tracks: 1
+Composer: M.Babatunde Olantunji, Tracks: 1
+Composer: Mabins, Macie/Magee, Sterling/Robinson, Bobby, Tracks: 1
+Composer: Macelo Yuka/O Rappa, Tracks: 1
+Composer: Manuca/Raimundinho DoAcordion/Targino Godim, Tracks: 1
+Composer: Marc-Antoine Charpentier, Tracks: 1
+Composer: Marco Tulio Lara/Rogerio Flausino, Tracks: 1
+Composer: Marcos Valle, Tracks: 1
+Composer: Marisa Monte/Nando Reis, Tracks: 2
+Composer: Marisa Monte/poema de Octavio Paz/versão: Haroldo de Campos, Tracks: 1
+Composer: Mark Ronson, Tracks: 1
+Composer: Marley, Tracks: 1
+Composer: Marsden, Tracks: 1
+Composer: Marsden/Moody, Tracks: 1
+Composer: Marvin Gaye, Tracks: 4
+Composer: Mason, Waters, Wright, Gilmour, Tracks: 1
+Composer: Mason/Waters, Gilmour, Wright, Tracks: 1
+Composer: Matt Cameron, Tracks: 3
+Composer: Matt Cameron & Mike McCready, Tracks: 1
+Composer: Matt Rowe & Stefan Skarbek, Tracks: 1
+Composer: Mauro Diniz/Ratino Sigem, Tracks: 1
+Composer: Maxton Gig Beesley Jnr., Tracks: 1
+Composer: May, Tracks: 4
+Composer: May, Brian, Tracks: 4
+Composer: McKinley Morgenfield (Muddy Waters), Tracks: 1
+Composer: Mercury, Tracks: 3
+Composer: Mercury, Freddie, Tracks: 10
+Composer: Metallica, Tracks: 8
+Composer: Michael Jackson, Tracks: 1
+Composer: Mick Hucknall, Tracks: 7
+Composer: Mick Hucknall and Fritz McIntyre, Tracks: 2
+Composer: Mick Hucknall and Lamont Dozier, Tracks: 1
+Composer: Mick Hucknall and Neil Moss, Tracks: 1
+Composer: Mick Jagger, Keith Richard, Tracks: 1
+Composer: Mick Jones/Traditional arr. Joe Strummer, Tracks: 1
+Composer: Mick Mars/Nikki Sixx, Tracks: 3
+Composer: Mick Mars/Nikki Sixx/Tommy Lee, Tracks: 2
+Composer: Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil, Tracks: 3
+Composer: Mike Bordin, Billy Gould, Mike Patton, Tracks: 10
+Composer: Mike Bordin, Billy Gould, Mike Patton, Trey Spruance, Tracks: 5
+Composer: Mike Dint, Billie Joe, Tré Cool, Tracks: 2
+Composer: Mike Dirnt -Words Green Day -Music, Tracks: 1
+Composer: Mike Dirnt/Tré Cool, Tracks: 1
+Composer: Mike McCready, Tracks: 1
+Composer: Mike McCready & Stone Gossard, Tracks: 1
+Composer: Mike Patton, Tracks: 3
+Composer: Miles Davis, Tracks: 23
+Composer: Miles Davis, Gil Evans, Tracks: 1
+Composer: Milton Nascimento, Tracks: 1
+Composer: Milton Nascimento, Caetano Veloso, Tracks: 2
+Composer: Milton Nascimento, Fernando Brant, Tracks: 9
+Composer: Milton Nascimento, Márcio Borges, Tracks: 1
+Composer: Milton Nascimento, Ronaldo Bastos, Tracks: 3
+Composer: Molaney/Morris/Roberts/Wainwright, Tracks: 2
+Composer: Moody, Tracks: 1
+Composer: Morais, Tracks: 1
+Composer: Murilão, Tracks: 1
+Composer: Murray  Dave, Tracks: 1
+Composer: Mutantes, Tracks: 1
+Composer: Mônica Marianno, Tracks: 12
+Composer: N. Cester, Tracks: 1
+Composer: Nando Reis, Tracks: 3
+Composer: Nando Reis/Samuel Rosa, Tracks: 1
+Composer: Nanker Phelge, Tracks: 1
+Composer: Ned Fairchild, Tracks: 1
+Composer: Nei Lopes/Wilson Moreira, Tracks: 1
+Composer: Neil Young, Tracks: 1
+Composer: Nelson Angelo, Tracks: 1
+Composer: Niccolò Paganini, Tracks: 1
+Composer: Nickolas Ashford & Valerie Simpson, Tracks: 1
+Composer: Nikki Sixx, Tracks: 5
+Composer: Nikki Sixx/Tommy Lee/Vince Neil, Tracks: 2
+Composer: Nikolai Rimsky-Korsakov, Tracks: 1
+Composer: Nirvana, Tracks: 3
+Composer: O. Osbourne, Tracks: 1
+Composer: O. Osbourne, R. Daisley, R. Rhoads, Tracks: 9
+Composer: O. Osbourne, R. Daisley, R. Rhoads, L. Kerslake, Tracks: 1
+Composer: Orestes Barbosa-Sílvio Caldas, Tracks: 1
+Composer: Os Mutantes - Arnolpho Lima Filho, Tracks: 1
+Composer: Page, Jones, Tracks: 1
+Composer: Patrick Claher/Richard Bull, Tracks: 1
+Composer: Paul Di'Anno/Steve Harris, Tracks: 5
+Composer: Paul O'duffy, Tracks: 1
+Composer: Paul Stanley, Tracks: 5
+Composer: Paul Stanley, Ace Frehley, Tracks: 2
+Composer: Paul Stanley, B. Ezrin, Tracks: 1
+Composer: Paul Stanley, B. Ezrin, K. Fowley, Tracks: 1
+Composer: Paul Stanley, Bob Ezrin, Kim Fowley, Tracks: 1
+Composer: Paul Stanley, Gene Simmons, Tracks: 3
+Composer: Paul Stanley, Gene Simmons, B. Ezrin, Tracks: 1
+Composer: Paul Stanley, Gene Simmons, Bob Ezrin, Lewis Reed, Tracks: 1
+Composer: Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin, Tracks: 1
+Composer: Paul Stanley, Vincent Cusano, Tracks: 1
+Composer: Paul Stanley, Vincent Poncia, Tracks: 2
+Composer: Paul Stanley, Vincent Poncia, Desmond Child, Tracks: 1
+Composer: Paulinho Rezende/Toninho Geraes, Tracks: 1
+Composer: Paulo Levi/W. Rangel, Tracks: 1
+Composer: Pearl Jam, Tracks: 2
+Composer: Pearl Jam & Eddie Vedder, Tracks: 1
+Composer: Peninha, Tracks: 1
+Composer: Pete Townshend, Tracks: 13
+Composer: Pete Townshend, Roger Daltrey, Tracks: 1
+Composer: Peter Criss, Stan Penridge, Bob Ezrin, Tracks: 1
+Composer: Peter Ilyich Tchaikovsky, Tracks: 1
+Composer: Philip Glass, Tracks: 1
+Composer: Pietro Antonio Locatelli, Tracks: 1
+Composer: Pietro Mascagni, Tracks: 1
+Composer: Queen, Tracks: 9
+Composer: Queen & David Bowie, Tracks: 1
+Composer: R. Carless, Tracks: 1
+Composer: R. DeLeo/Weiland, Tracks: 6
+Composer: R. Rhoads, Tracks: 1
+Composer: R. Taha, Carlos Santana & T. Lindsay, Tracks: 1
+Composer: R. Troup, L. Worth, Tracks: 1
+Composer: R.E.M., Tracks: 16
+Composer: Ralph Vaughan Williams, Tracks: 1
+Composer: Ratinho/Zeca Pagodinho, Tracks: 1
+Composer: Ray Davies, Tracks: 2
+Composer: Red Hot Chili Peppers, Tracks: 12
+Composer: Renato Russo, Tracks: 20
+Composer: Renato Russo - Marcelo Bonfá, Tracks: 1
+Composer: Renato Russo - Marisa Monte, Tracks: 1
+Composer: Richard Bull, Tracks: 2
+Composer: Richard Poindexter & Robert Poindexter, Tracks: 1
+Composer: Richard Wagner, Tracks: 1
+Composer: Richie Blackmore, Ian Gillian, Roger Glover, Tracks: 2
+Composer: Richie Blackmore, Ian Gillian, Roger Glover, Ian Paice, Tracks: 1
+Composer: Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Tracks: 2
+Composer: Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice, Tracks: 5
+Composer: Rick Strauss, Tracks: 1
+Composer: Rita Lee - Arnaldo Baptista - Sérgio Baptista, Tracks: 1
+Composer: Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice, Tracks: 7
+Composer: Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison, Tracks: 9
+Composer: Robert Geddins/Ron Badger/Sheldon Feinberg, Tracks: 1
+Composer: Robert Johnson, Tracks: 3
+Composer: Robert Plant, Tracks: 13
+Composer: Robert Plant & John Paul Jones, Tracks: 1
+Composer: Robert Rogers/Warren "Pete" Moore/William "Mickey" Stevenson, Tracks: 1
+Composer: Rodolfo, Tracks: 10
+Composer: Roger Taylor, Tracks: 2
+Composer: Roy Z, Tracks: 8
+Composer: S. Penridge, Bob Ezrin, Peter Criss, Tracks: 1
+Composer: Salaam Remi, Tracks: 2
+Composer: Samuel Barber, Tracks: 1
+Composer: Samuel Rosa, Tracks: 11
+Composer: Santana, Tracks: 1
+Composer: Seger, Tracks: 1
+Composer: Sergei Prokofiev, Tracks: 1
+Composer: Slash/W. Axl Rose, Tracks: 1
+Composer: Smith, Toby, Tracks: 6
+Composer: Smith/Dickinson, Tracks: 3
+Composer: Smokey Robinson/Warren "Pete" Moore, Tracks: 1
+Composer: Sonny Boy Williamson [I], Tracks: 1
+Composer: Sonny Curtis, Tracks: 1
+Composer: Soundgarden, Tracks: 1
+Composer: South, Tracks: 1
+Composer: Steve Harris, Tracks: 80
+Composer: Steven Tyler, Desmond Child, Tracks: 1
+Composer: Steven Tyler, Jim Vallance, Tracks: 2
+Composer: Steven Tyler, Joe Perry, Tracks: 1
+Composer: Steven Tyler, Joe Perry, Desmond Child, Tracks: 3
+Composer: Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw, Tracks: 1
+Composer: Steven Tyler, Joe Perry, Jim Vallance, Tracks: 1
+Composer: Steven Tyler, Joe Perry, Jim Vallance, Holly Knight, Tracks: 1
+Composer: Steven Tyler, Joe Perry, Mark Hudson, Tracks: 1
+Composer: Steven Tyler, Joe Perry, Taylor Rhodes, Tracks: 2
+Composer: Steven Tyler, Richie Supa, Tracks: 1
+Composer: Steven Tyler, Tom Hamilton, Tracks: 1
+Composer: Stevie Nicks, Tracks: 1
+Composer: Stevie Ray Vaughan, Tracks: 2
+Composer: Stone Gossard, Tracks: 8
+Composer: Stone Gossard & Eddie Vedder, Tracks: 2
+Composer: Stone Gossard & Eddie Vedder & Jeff Ament & Mike McCready, Tracks: 1
+Composer: Stuard Zender/Toby Smith, Tracks: 1
+Composer: Stuart Zender, Tracks: 1
+Composer: Sully Erna, Tracks: 10
+Composer: Sully Erna; Tony Rombola, Tracks: 2
+Composer: Sweet Savage, Tracks: 1
+Composer: Sykes, Tracks: 4
+Composer: Sylvester Stewart, Tracks: 1
+Composer: Sérgio Britto, Tracks: 2
+Composer: Sérgio Britto/Toni Bellotto, Tracks: 1
+Composer: Tankian, Serj, Tracks: 7
+Composer: Taylor, Tracks: 2
+Composer: Ted Wright, Tracks: 1
+Composer: Terry Bozzio, Steve Stevens, Tony Levin, Tracks: 7
+Composer: The Clash, Tracks: 7
+Composer: The Tea Party, Tracks: 24
+Composer: Thomas Tallis, Tracks: 1
+Composer: Tim Maia, Tracks: 9
+Composer: Titãs, Tracks: 22
+Composer: Toby Smith, Tracks: 7
+Composer: Toby Smith/Wallis Buchanan, Tracks: 1
+Composer: Tom Jobim - Newton Mendoça, Tracks: 1
+Composer: Toni Bellotto, Tracks: 1
+Composer: Toninho Horta, Tracks: 1
+Composer: Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne, Tracks: 11
+Composer: Tradicional, Tracks: 1
+Composer: Traditional, Tracks: 4
+Composer: Turner, Held, Greenwood, Tracks: 1
+Composer: U. Dirkschneider, W. Hoffmann, H. Frank, P. Baltes, S. Kaufmann, G. Hoffmann, Tracks: 1
+Composer: U2, Tracks: 44
+Composer: U2 & Daragh O'Toole, Tracks: 1
+Composer: U2 & Van Dyke Parks, Tracks: 1
+Composer: U2; Bono, Tracks: 8
+Composer: U2; Bono & Edge, The, Tracks: 1
+Composer: U2; Edge, The, Tracks: 1
+Composer: Ulrich, Tracks: 7
+Composer: Unknown, Tracks: 977
+Composer: Van Halen, Tracks: 15
+Composer: Vandenberg, Tracks: 4
+Composer: Vários, Tracks: 17
+Composer: W. Axl Rose, Tracks: 4
+Composer: W. Jean, J. Duplessis, Carlos Santana, K. Perazzo & R. Rekow, Tracks: 1
+Composer: W.Correa, Tracks: 1
+Composer: Wagner Tiso, Milton Nascimento, Tracks: 1
+Composer: Waters, Tracks: 3
+Composer: Waters, Wright, Tracks: 1
+Composer: Weill-Brecht, Tracks: 1
+Composer: Whitfield-Strong, Tracks: 1
+Composer: William "Mickey" Stevenson, Tracks: 1
+Composer: William Byrd, Tracks: 1
+Composer: Willie Dixon, Tracks: 8
+Composer: Willie Dixon, C. Burnett, Tracks: 1
+Composer: Wolfgang Amadeus Mozart, Tracks: 5
+Composer: Wright, Waters, Tracks: 1
+Composer: alan bergman/marilyn bergman/peggy lipton jones/quincy jones, Tracks: 1
+Composer: antonio carlos jobim/norman gimbel/vinicius de moraes, Tracks: 1
+Composer: bart howard, Tracks: 1
+Composer: bert brecht/kurt weill/marc blitzstein, Tracks: 1
+Composer: berthold kaempfert/charles singleton/eddie snyder, Tracks: 1
+Composer: carl sigman/gilbert becaud/pierre leroyer, Tracks: 1
+Composer: carolyn leigh/cy coleman, Tracks: 1
+Composer: carson c. parks, Tracks: 1
+Composer: claude françois/gilles thibault/jacques revaux/paul anka, Tracks: 1
+Composer: cole porter, Tracks: 2
+Composer: dean kay thompson/kelly gordon, Tracks: 1
+Composer: ervin drake, Tracks: 1
+Composer: fred ebb/john kander, Tracks: 1
+Composer: george gershwin/ira gershwin, Tracks: 1
+Composer: hans bradtke/heinz meier/johnny mercer, Tracks: 1
+Composer: henry mancini/johnny mercer, Tracks: 1
+Composer: ian paice/jon lord, Tracks: 1
+Composer: jim croce, Tracks: 1
+Composer: jimmy van heusen/sammy cahn, Tracks: 3
+Composer: jon lord/roger glover, Tracks: 2
+Composer: lorenz hart/richard rodgers, Tracks: 1
+Composer: orlando murden/ronald miller, Tracks: 1
+Composer: rod mckuen, Tracks: 1
+Composer: roger glover, Tracks: 7
+
+6) ComposersAndTracks:
+: 977 tracks
+A. F. Iommi, W. Ward, T. Butler, J. Osbourne: 3 tracks
+A. Jamal: 1 tracks
+A.Bouchard/J.Bouchard/S.Pearlman: 1 tracks
+A.Isbell/A.Jones/O.Redding: 1 tracks
+AC/DC: 8 tracks
+Aaron Copland: 1 tracks
+Aaron Goldberg: 1 tracks
+Ace Frehley: 2 tracks
+Acyi Marques/Arlindo Bruz/Braço, Beto Sem/Zeca Pagodinho: 1 tracks
+Acyr Marques/Arlindo Cruz/Franco: 1 tracks
+Adalto Magalha/Lourenco: 1 tracks
+Adam Clayton, Bono, Larry Mullen & The Edge: 11 tracks
+Adam Clayton, Bono, Larry Mullen, The Edge: 11 tracks
+Addie William Jones/Nat Jones: 1 tracks
+Adrian Smith: 5 tracks
+Adrian Smith/Bruce Dickinson: 6 tracks
+Adrian Smith/Bruce Dickinson/Nicko McBrain: 1 tracks
+Adrian Smith/Bruce Dickinson/Steve Harris: 8 tracks
+Adrian Smith/Clive Burr/Steve Harris: 1 tracks
+Adrian Smith/Steve Harris: 5 tracks
+Adrian Smith; Bruce Dickinson: 1 tracks
+Adrian Smith; Bruce Dickinson; Steve Harris: 3 tracks
+Adrian Vanderberg/David Coverdale: 1 tracks
+Adriano Bernandes/Edmar Neves: 1 tracks
+Al Cleveland/Marvin Gaye/Renaldo Benson: 1 tracks
+Al Perkins/Willie Dixon: 1 tracks
+Alanis Morissette & Glenn Ballard: 13 tracks
+Alba Carvalho/Fernando Porto: 1 tracks
+Albert King: 1 tracks
+Alcides Dias Lopes: 1 tracks
+Alcino Corrêa/Monarco: 1 tracks
+Aldir Blanc/Jayme Vignoli: 1 tracks
+Alex North/Hy Zaret: 1 tracks
+Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony: 7 tracks
+Alexandre Brazil/Pedro Luis/Rodrigo Cabelo: 1 tracks
+Alfred Ellis/James Brown: 2 tracks
+Allen Story/George Gordy/Robert Gordy: 1 tracks
+Almir Guineto/Dedé Paraiso/Luverci Ernesto: 1 tracks
+Amos Blakemore/Buddy Guy: 1 tracks
+Andrea Dulbecco: 1 tracks
+Angus Young, Malcolm Young, Brian Johnson: 10 tracks
+Anonymous: 1 tracks
+Anthony Kiedis, Flea, John Frusciante, and Chad Smith: 16 tracks
+Anthony Kiedis/Chad Smith/Flea/John Frusciante: 19 tracks
+Antonio Carlos Jobim: 1 tracks
+Antonio Carlos Jobim/Vinicius de Moraes: 1 tracks
+Antonio Lopes: 1 tracks
+Antonio Vivaldi: 1 tracks
+Apocalyptica: 8 tracks
+Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao: 1 tracks
+Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina Pérolo/Zeca Pagodinho: 1 tracks
+Arnaldo Antunes: 1 tracks
+Arnaldo Antunes/Britto, SergioMiklos, Paulo: 1 tracks
+Arnaldo Antunes/Charles Gavin/Marcelo Fromer/Sérgio Britto/Toni Bellotto: 1 tracks
+Arnaldo Anutnes/Branco Mello/Marcelo Fromer/Sergio Brotto/Toni Bellotto: 1 tracks
+Arnaldo Anutnes/Marcelo Fromer/Paulo Miklos: 1 tracks
+Arnaldo Baptista - Rita Lee: 2 tracks
+Arnaldo Baptista - Rita Lee -  Sérgio Dias: 1 tracks
+Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho: 1 tracks
+Arnaldo Baptista - Rita Lee - Sérgio Dias: 1 tracks
+Arnaldo Baptista/Rita Lee/Sérgio Dias: 1 tracks
+Arthur Crudup/Bernard Besman/Bukka White/Doc Pomus/John Bonham/John Lee Hooker/John Paul Jones/Mort Shuman/Robert Plant/Willie Dixon: 1 tracks
+Astor Campbell, Delroy "Chris" Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek: 1 tracks
+Astor Piazzolla: 1 tracks
+Audioslave/Chris Cornell: 14 tracks
+Augusto Conceição/Chiclete Com Banana: 1 tracks
+Augusto Garcez/Nelson Cavaquinho: 1 tracks
+Augusto/Craig Negoescu/Rocco Filho/Saara, Ze Carlos Da: 1 tracks
+B. Carter/C. Layton/R. Ellsworth/R. Wynans/T. Shannon: 1 tracks
+B. Cummings/G. Peterson/M.J. Kale/R. Bachman: 1 tracks
+B. Daisley, O. Osbourne & R. Rhoads: 2 tracks
+B. Guy: 1 tracks
+B. de Filippi - F. Migliaci - Versão: Fred Jorge: 1 tracks
+Baden Powell/Vinicius de Moraes: 1 tracks
+Bahiano/Chuck Rio/Diego Blanco/Herbert Vianna: 1 tracks
+Bahiano/Diego Blanco/Herbert Vianna: 1 tracks
+Barrett Strong/Norman Whitfield: 2 tracks
+Barrett Strong/Norman Whitfield/Roger Penzabene: 1 tracks
+Ben E.King/James Bethea: 1 tracks
+Ben Shepherd/Chris Cornell: 1 tracks
+Ben Shepherd/Chris Cornell/Kim Thayil/Matt Cameron: 1 tracks
+Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido: 1 tracks
+Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido: 1 tracks
+Bernardo Vilhena/Da Gama/Lazao: 1 tracks
+Bernardo Vilhena/Da Gama/Lazão: 1 tracks
+Berry Gordy, Jr./Janie Bradford: 1 tracks
+Bert Russell/Phil Medley: 1 tracks
+Beto Gogo/Jessé Pai/Luiz Carlos/Zeca Pagodinho: 1 tracks
+Beto Guedes, Márcio Borges: 1 tracks
+Beto Guedes, Ronaldo Bastos: 1 tracks
+Beto Guedes/Fernando Brant/L Borges: 1 tracks
+Betty Newsome/James Brown: 1 tracks
+Bi Ribeira/Herbert Vianna/João Barone: 1 tracks
+Bi Ribeiro/Herbert Vianna/João Barone: 1 tracks
+Big Bill Broonzy: 1 tracks
+Bill Berry-Peter Buck-Mike Mills-Michael Stipe: 25 tracks
+Bill Berry/Michael Stipe/Mike Mills/Peter Buck: 11 tracks
+Bill Dees/Roy Orbison: 1 tracks
+Bill Gould/Jon Hudson/Mike Bordin/Mike Patton: 1 tracks
+Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum: 2 tracks
+Bill Gould/Mike Bordin/Mike Patton: 2 tracks
+Bill Gould/Mike Patton: 2 tracks
+Billie Joe Armstrong -Words Green Day -Music: 20 tracks
+Billie Joe Armstrong, Mike Dirnt, Tré Cool: 2 tracks
+Billie Joe Armstrong/Green Day: 1 tracks
+Billy Cobham: 7 tracks
+Billy Corgan: 31 tracks
+Billy Duffy/Bob Rock/Ian Astbury: 2 tracks
+Billy Duffy/Ian Astbury: 9 tracks
+Billy Duffy/Ian Astbury/Marti Frederiksen/Mick Jones: 1 tracks
+Billy Roberts: 1 tracks
+Billy/Del James/W. Axl Rose/West Arkeen: 1 tracks
+Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers: 1 tracks
+Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido: 1 tracks
+Bino Farias/Da Gama/Lazão/Rás Bernardo: 1 tracks
+Bino Farias/Da Gama/Lazão/Toni Garrido: 4 tracks
+Bino Farias/Da Gamma/Lazão/Rás Bernard: 1 tracks
+Bino/Da Gama/Lazao/Ras Bernardo: 1 tracks
+Bino/Da Gama/Ras Bernardo: 2 tracks
+Bino/Da Gama/Toni Garrido: 1 tracks
+Bino/Da Gamma/Lazao/Toni Garrido: 1 tracks
+Bizuca/Clóvis Pê/Gilson Bernini/Marelo D'Aguia: 1 tracks
+Black Sabbath: 1 tracks
+Blackmore, Gillan, Glover, Lord, Paice: 7 tracks
+Blackmore, Glover, Turner: 4 tracks
+Blackmore, Glover, Turner, Lord, Paice: 4 tracks
+Blackmore/Coverdale: 1 tracks
+Blackmore/Coverdale/Lord/Paice: 1 tracks
+Blackmore/Gillan/Glover/Lord/Paice: 1 tracks
+Blaze Bayley/David Murray/Steve Harris: 1 tracks
+Blaze Bayley/Janick Gers: 2 tracks
+Blaze Bayley/Janick Gers/Steve Harris: 4 tracks
+Blaze Bayley/Steve Harris: 1 tracks
+Bo Diddley: 1 tracks
+Bob Cochran/Sharon Sheeley: 1 tracks
+Bob Dylan: 1 tracks
+Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich: 11 tracks
+Bobby Byrd/James Brown/Ron Lenhoff: 1 tracks
+Bolin/Coverdale: 4 tracks
+Bolin/Coverdale/Paice: 1 tracks
+Bolin/Hughes: 1 tracks
+Bolin/Hughes/Lord: 1 tracks
+Bombom/Ed Motta: 1 tracks
+Bono: 1 tracks
+Bono, The Edge, Adam Clayton, and Larry Mullen: 12 tracks
+Bono/Clayton, Adam/Dylan, Bob/Mullen Jr., Larry/The Edge: 1 tracks
+Bono/Clayton, Adam/Mullen Jr., Larry/The Edge: 12 tracks
+Bossi/David Coverdale/Earl Slick: 2 tracks
+Bourge/Phillips/Shelley: 2 tracks
+Brad Shapiro/George Jackson/Robert Miller/Walter Shaw: 1 tracks
+Branco Mello/Carlos Barmack/Ciro Pessoa/Marcelo Fromer/Toni Belloto: 1 tracks
+Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.: 14 tracks
+Brian Eno/U2: 1 tracks
+Brian Holland/Eddie Holland/Lamont Dozier: 1 tracks
+Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett: 1 tracks
+Brian May: 2 tracks
+Bruce Dickinson: 3 tracks
+Bruce Dickinson/David Murray: 3 tracks
+Bruce Dickinson/David Murray/Steve Harris: 4 tracks
+Bruce Dickinson/Janick Gers: 5 tracks
+Bruce Dickinson/Janick Gers/Steve Harris: 5 tracks
+Bruce Dickinson/Steve Harris: 4 tracks
+Bruce Dickinson; Harris: 1 tracks
+Bruce/Clapton: 3 tracks
+Bryan Adams/Nikki Sixx/Scott Humphrey: 1 tracks
+Buchanan, Wallis: 1 tracks
+Buddy Guy: 3 tracks
+Buzz Cason/Mac Gayden: 1 tracks
+Béla Bartók: 1 tracks
+C. A./C.A./Celso Alvim/Herbert Vianna/Mário Moura/Pedro Luís/Sidon Silva: 1 tracks
+C. Burnett: 1 tracks
+C. Cester: 1 tracks
+C. Cester/C. Muncey: 1 tracks
+C. Cester/C. Muncey/N. Cester: 3 tracks
+C. Cester/N. Cester: 4 tracks
+C. Muncey/N. Cester: 3 tracks
+C.Burton: 1 tracks
+Caetano Veloso: 10 tracks
+Caetano Veloso - Djavan: 1 tracks
+Caetano Veloso - Gilberto Gil: 1 tracks
+Caetano Veloso - Waly Salomão: 1 tracks
+Caetano Veloso e Gilberto Gil: 11 tracks
+Cal Adan/Del Rey, Tension/Edu Casanova: 1 tracks
+Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill: 1 tracks
+Cal Adan/Paulo Levi: 1 tracks
+Cale/Clapton: 1 tracks
+Carl Nielsen: 1 tracks
+Carl Orff: 1 tracks
+Carlinhos Brown: 3 tracks
+Carlinhos Brown/Herbert Vianna: 1 tracks
+Carlinhos Santana/Nelson Rufino: 1 tracks
+Carlos Imperial/Edardo Araújo: 1 tracks
+Carlos Imperial/Tim Maia: 1 tracks
+Carlos Santana: 3 tracks
+Carlos Santana & C. Thompson: 1 tracks
+Carlos Santana & Dave Matthews: 1 tracks
+Carlos Santana & KC Porter: 1 tracks
+Carlos Santos/Ciro/Claudio Russo/Zé Luiz: 1 tracks
+Carolyn Franklin and Sonny Saunders: 1 tracks
+Caruso/Cleber/Deo/Osmar: 1 tracks
+Cassiano Costa/Cintia Maviane/J.F./Lucas Costa: 1 tracks
+Cave: 1 tracks
+Charles Bobbitt/James Brown: 2 tracks
+Charles Gavin/Marcelo Fromer/Sérgio Britto: 1 tracks
+Charlie Midnight/Dan Hartman: 1 tracks
+Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant: 1 tracks
+Chet Catallo: 1 tracks
+Chico Amaral/Edgard Scandurra/Samuel Rosa: 1 tracks
+Chico Amaral/Lelo Zanettik: 1 tracks
+Chico Amaral/Samuel Rosa: 6 tracks
+Chico Buarque: 1 tracks
+Chico Science: 23 tracks
+Chico Science/Dengue/Lúcio Maia: 1 tracks
+Chris Cornell: 23 tracks
+Chris Cornell/Kim Thayil: 4 tracks
+Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth: 1 tracks
+Chris Robinson/Rich Robinson: 18 tracks
+Chuck Berry: 3 tracks
+Cidade Negra: 1 tracks
+Ciro Pressoa/Marcelo Fromer: 1 tracks
+Clapton: 4 tracks
+Clapton/Collins/Pappalardi: 1 tracks
+Clapton/Dylan: 1 tracks
+Clapton/F.eldman/Linn: 1 tracks
+Clapton/Gordon: 1 tracks
+Clapton/Harrison: 1 tracks
+Clapton/J. J. Cale: 1 tracks
+Clapton/Levy: 1 tracks
+Clapton/Robert Johnson Arr: Eric Clapton: 1 tracks
+Clapton/Trad. Arr. Clapton: 1 tracks
+Clarke/Farren/Kilmister/Tayler: 1 tracks
+Clarke/Kilmister/Tayler: 3 tracks
+Clarke/Kilmister/Taylor: 13 tracks
+Claudio Martins/David Lima/Kleber Rodrigues/Livre, Cesare Som: 1 tracks
+Claudio Monteverdi: 1 tracks
+Cliff Burton: 1 tracks
+Collins/Van Zandt: 1 tracks
+Cook/Coverdale: 1 tracks
+Cornell, Commerford, Morello, Wilk: 12 tracks
+Corumbá/José Gumarães/Venancio: 1 tracks
+Coverdale: 5 tracks
+Coverdale/Hughes: 1 tracks
+Coverdale/Hughes/Lord/Paice: 1 tracks
+Coverdale/Lord/Paice: 2 tracks
+Craig Ross/Lenny Kravitz: 1 tracks
+Cub Coda/Michael Lutz: 1 tracks
+Culmer/Exalt: 1 tracks
+D. DeLeo/Kretz/R. DeLeo/Weiland: 1 tracks
+D. DeLeo/Kretz/Weiland: 2 tracks
+D. DeLeo/R. DeLeo/Weiland: 1 tracks
+D.Coverdal/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord: 1 tracks
+D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore: 3 tracks
+D.Coverdale/G.Hughes/Glenn Hughes/J.Lord/John Lord: 1 tracks
+D.Coverdale/G.Hughes/Glenn Hughes/R.Blackmore/Ritchie Blackmore: 1 tracks
+D.Coverdale/R.Blackmore/Ritchie Blackmore: 3 tracks
+Da Gama/Lazao/Toni Garrido: 1 tracks
+Da Gama/Lazão/Rás Bernardo: 1 tracks
+Da Gama/Toni Garrido: 3 tracks
+Dadinho/Gilbreto Gomes/Gustavo/P.C. Portugal/R. Mocoto: 1 tracks
+Dado Villa-Lobos: 1 tracks
+Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonfá: 1 tracks
+Dado Villa-Lobos/Marcelo Bonfá: 8 tracks
+Dale Evans: 1 tracks
+Daniel Lanois: 1 tracks
+Danzig: 2 tracks
+Darius "Take One" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris: 2 tracks
+Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder: 3 tracks
+Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard: 12 tracks
+Dave Brubeck: 1 tracks
+Dave Grohl: 3 tracks
+Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett: 10 tracks
+Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS: 10 tracks
+Dave Krusen/Stone Gossard: 1 tracks
+Dave Kushner, Duff, Keith Nelson, Matt Sorum, Scott Weiland & Slash: 1 tracks
+Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash: 12 tracks
+Dave Murray; Steve Harris: 1 tracks
+Dave, Taylor, Nate, Chris: 10 tracks
+David Cook: 1 tracks
+David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto: 1 tracks
+David Coverdale: 5 tracks
+David Coverdale/Earl Slick: 4 tracks
+David Murray/Paul Di'Anno/Steve Harris: 4 tracks
+David Murray/Steve Harris: 7 tracks
+De Beauport/Jagger/Richards: 1 tracks
+Deacon: 2 tracks
+Deacon, John: 2 tracks
+Deacon, John/May, Brian: 1 tracks
+Deacon/May/Mercury/Taylor: 1 tracks
+Deaffy & R.A. Smith-Diesel: 1 tracks
+Dean Brown, Dennis Chambers & Jim Beard: 1 tracks
+Dean Deleo: 1 tracks
+Deanna Brown/Deidra Jenkins/Yamma Brown: 1 tracks
+Delroy "Chris" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole: 1 tracks
+Derrick McKenzie/Jay Kay/Toby Smith: 1 tracks
+Diamond/Shermann: 1 tracks
+Dick Holler: 1 tracks
+Dickinson: 3 tracks
+Dickinson/Smith: 1 tracks
+Dito/Djalma Falcao/Ilha, Almir Da/Márcio André: 1 tracks
+Di´Anno/Harris: 1 tracks
+Djavan: 12 tracks
+Djavan - Gabriel, O Pensador: 1 tracks
+Do Vale, João/Luiz Wanderley: 1 tracks
+Do Vale, Valverde/Gal Oliveira/Luciano Pinto: 1 tracks
+Dolmayan, John/Malakian, Daron/Odadjian, Shavo: 4 tracks
+Dolores Duran: 1 tracks
+Domenil/J. Brito/Joaozinho/Rap, Marcelo Do: 1 tracks
+Dominguinhos/Gilberto Gil: 1 tracks
+Don Van Vliet: 2 tracks
+Donato/Gilberto Gil: 1 tracks
+Douglas/Neves, Vicente Das/Silva, Gilmar L./Toninho Gentil/Wantuir: 1 tracks
+Doyle Bramhall/Stevie Ray Vaughan: 4 tracks
+Dudu Nobre: 1 tracks
+Dudu Nobre/Zeca Pagodinho: 1 tracks
+Duff McKagan: 1 tracks
+Duff McKagan/Slash/W. Axl Rose: 2 tracks
+Dufort/Johnson/McAuliffe/Williams: 1 tracks
+Dylan, Bob: 1 tracks
+E. Schrody/J. Vasquez/L. Dimant: 1 tracks
+E. Schrody/L. Dimant: 6 tracks
+E. Schrody/L. Dimant/L. Muggerud: 1 tracks
+E. Schrody/L. Freese/L. Muggerud: 1 tracks
+E. Schrody/L. Muggerud: 5 tracks
+E. Schrody/L. Muggerud/R. Medrano: 1 tracks
+E. Schrody/R. Medrano: 2 tracks
+E. Shrody: 1 tracks
+E.Weiss: 2 tracks
+Eale-Eye Cherry, M. Simpson, J. King & M. Nishita: 1 tracks
+Eddie Casillas/Roy Z: 1 tracks
+Eddie Cochran/Jerry Capehart: 1 tracks
+Eddie Vedder: 12 tracks
+Eddie Vedder & Mike McCready: 3 tracks
+Eddie Vedder & Stone Gossard: 1 tracks
+Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard: 1 tracks
+Edvard Grieg: 1 tracks
+Edward Elgar: 2 tracks
+Edward Van Halen, Alex Van Halen, David Lee Roth: 2 tracks
+Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony: 6 tracks
+Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth: 9 tracks
+Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth: 2 tracks
+Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar: 4 tracks
+Emerson Villani: 1 tracks
+Enotris Johnson/Little Richard/Robert "Bumps" Blackwell: 1 tracks
+Erasmo Carlos/Roberto Carlos: 1 tracks
+Eric Clapton: 2 tracks
+Eric Clapton, Jim Gordon: 1 tracks
+Eric Clapton, Robert Cray: 1 tracks
+Eric Clapton, Will Jennings: 1 tracks
+Erik Satie: 1 tracks
+Eugene McDaniel: 1 tracks
+Eurreal Montgomery: 1 tracks
+F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman: 1 tracks
+F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman: 1 tracks
+F. Olivera: 1 tracks
+Faith No More: 10 tracks
+Faithfull/Jagger/Richards: 1 tracks
+Fausto Fawcett/Samuel Rosa: 1 tracks
+Fausto Nilo - Armandinho: 1 tracks
+Fausto Nilo/Moraes Moreira/Pepeu Gomes: 1 tracks
+Fayyaz Virgi/Richard Bull: 1 tracks
+Fito Paez/Herbert Vianna: 1 tracks
+Flavio Bororo/Paulo Apparicio/Wagner Alves/Zeca Sereno: 1 tracks
+Folclore: 1 tracks
+Foo Fighters: 11 tracks
+Frank Zappa: 7 tracks
+Franz Joseph Haydn: 1 tracks
+Franz Schubert: 2 tracks
+Fred Wesley/James Brown: 1 tracks
+Fred Wesley/James Brown/Joseph Mims: 1 tracks
+Freddie Mercury: 1 tracks
+Freddie Mercury & John Deacon: 1 tracks
+Freddy James, Jimmy hogarth & Larry Stock: 1 tracks
+Frédéric Chopin: 1 tracks
+Full Force/James Brown: 1 tracks
+Fábio Nolasco/Gal Sales/Ivan Brasil: 1 tracks
+G Harvey/R Hope-Taylor: 1 tracks
+G M Sumner: 14 tracks
+Gabriel Fauré: 1 tracks
+Galley: 1 tracks
+Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira: 1 tracks
+Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush: 14 tracks
+Gelder, Nick van: 1 tracks
+Gene Simmons: 7 tracks
+Gene Simmons, S. Coronel: 2 tracks
+Gene Simmons, Stephen Coronel: 1 tracks
+Genival Cassiano: 1 tracks
+Genival Cassiano/Silvio Rochael: 1 tracks
+George Duke: 1 tracks
+George Frideric Handel: 3 tracks
+Georges Bizet: 1 tracks
+Gerry DeVeaux/Terry Britten: 1 tracks
+Giacomo Puccini: 2 tracks
+Gil Evans: 2 tracks
+Gilberto Gil: 23 tracks
+Gilberto Gil - Caetano Veloso: 1 tracks
+Gillan/Glover/Lord/Nix - Blackmore/Paice: 1 tracks
+Gillan/Glover/Lord/Paice: 1 tracks
+Gilmour, Mason, Wright, Waters: 1 tracks
+Gilmour, Waters: 1 tracks
+Gilson Mendonça/Michel: 1 tracks
+Giovanni Pierluigi da Palestrina: 1 tracks
+Giuseppe Verdi: 1 tracks
+Gonzaga Jr: 1 tracks
+Gonzaga Jr.: 3 tracks
+Gonzaga Jr/Gonzaguinha: 1 tracks
+Gonzaguinha: 1 tracks
+Graham Harvey: 1 tracks
+Grazielle/Roque Ferreira: 1 tracks
+Green Day: 7 tracks
+Greg Macainsh: 1 tracks
+Gregorio Allegri: 1 tracks
+Guga/Marquinho Lessa/Tuninho Professor: 1 tracks
+Guio De Morais E Seus "Parentes"/Luiz Gonzaga: 1 tracks
+Gule/Jorge 101/Lequinho/Luiz Piao: 1 tracks
+Gustav Holst: 1 tracks
+Gustav Mahler: 1 tracks
+H. Spina, J. Elliott: 2 tracks
+Habib Koité: 2 tracks
+Harris: 7 tracks
+Harris/Di Anno: 1 tracks
+Harris/Paul Di´Anno: 2 tracks
+Harris/Tatler: 4 tracks
+Harry Lawes/Winston Foster-Vers: 1 tracks
+Hawkins-Lewis-Broadwater: 1 tracks
+Heath/Robinson: 1 tracks
+Hector Berlioz: 1 tracks
+Hendrix, Jimi: 1 tracks
+Henry Hirsch/Lenny Kravitz: 1 tracks
+Henry Kirssch/Lenny Kravitz/S. Pasch A. Krizan: 1 tracks
+Henry Purcell: 2 tracks
+Henryk Górecki: 1 tracks
+Herbert Vianna: 19 tracks
+Herbert Vianna/Paulo Sérgio Valle: 1 tracks
+Herbert Vianna/Tet Tillett: 1 tracks
+Herbert Vianna/Tetê Tillet: 1 tracks
+Hetfield, Ulrich: 6 tracks
+Hetfield, Ulrich, Hammett: 6 tracks
+Hetfield, Ulrich, Newsted: 1 tracks
+Holocaust: 1 tracks
+Humberto Teixeira/Luiz Gonzaga: 4 tracks
+Hyldon: 1 tracks
+I. Toure, S. Tidiane Toure, Carlos Santana & K. Perazzo: 1 tracks
+Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice: 12 tracks
+Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover: 7 tracks
+Ian Stewart/John Bonham/John Paul Jones/Mrs. Valens/Robert Plant: 1 tracks
+Igor Stravinsky: 1 tracks
+Ira Gershwin, Kurt Weill: 1 tracks
+Isham Jones & Marty Symes: 1 tracks
+Ivan Kral/Patti Smith: 1 tracks
+Ivy Hunter/Stevie Wonder: 1 tracks
+Ivy Hunter/William "Mickey" Stevenson: 1 tracks
+Ivy Jo Hunter/Marvin Gaye/William Stevenson: 1 tracks
+Izzy Stradlin': 1 tracks
+Izzy Stradlin'/W. Axl Rose: 3 tracks
+J B Lenoir/Willie Dixon: 2 tracks
+J. B. Lenoir/Willie Dixon: 1 tracks
+J. C. Fogerty: 17 tracks
+J. Carisi: 2 tracks
+J. Kay/Jay Kay: 2 tracks
+J. Purdell, M. Inez, O. Osbourne, R. Castillo & Z. Wylde: 1 tracks
+J. Satriani: 4 tracks
+J.C. Fogerty: 20 tracks
+J.Hetfield/L.Ulrich: 2 tracks
+J.J. Johnson: 1 tracks
+J.J. Johnson/R. Troup, L. Worth: 1 tracks
+J.r.Bertami/Parana: 1 tracks
+Jack Yellen/Milton Ager: 1 tracks
+Jagger/Richards: 35 tracks
+Jagger/Richards/Oldham: 1 tracks
+James Brown: 3 tracks
+James Brown & Bobby Byrd: 1 tracks
+James Brown/Johnny Terry: 1 tracks
+James Brown/Tim Maia: 1 tracks
+James Hetfield: 1 tracks
+James Hetfield & Lars Ulrich: 1 tracks
+James Hetfield and Lars Ulrich: 2 tracks
+James Hetfield, Lars Ulrich: 11 tracks
+James Hetfield, Lars Ulrich & Jason Newsted: 1 tracks
+James Hetfield, Lars Ulrich & Kirk Hammett: 2 tracks
+James Hetfield, Lars Ulrich and Cliff Burton: 1 tracks
+James Hetfield, Lars Ulrich and Jason Newsted: 1 tracks
+James Hetfield, Lars Ulrich and Kirk Hammett: 6 tracks
+James Hetfield, Lars Ulrich, Dave Mustaine: 4 tracks
+James Hetfield, Lars Ulrich, Kirk Hammett: 7 tracks
+James Iha: 1 tracks
+Janick Gers/Steve Harris: 9 tracks
+Jauperi/Zeu Góes: 1 tracks
+Jay Beckenstein: 3 tracks
+Jay Hawkins: 1 tracks
+Jay Kay: 4 tracks
+Jay Kay/Kay, Jay: 2 tracks
+Jay Kay/Toby Smith: 5 tracks
+Jean Paul Maunick: 2 tracks
+Jean Sibelius: 1 tracks
+Jeff Ament: 7 tracks
+Jeff Ament & Eddie Vedder: 1 tracks
+Jeff Ament & Stone Gossard & Jack Irons & Mike McCready & Eddie Vedder: 1 tracks
+Jeff Ament/Mike McCready/Stone Gossard: 1 tracks
+Jeff Ament/Stone Gossard: 3 tracks
+Jeremy Wall: 4 tracks
+Jerry Cantrell: 6 tracks
+Jerry Cantrell, Layne Staley: 4 tracks
+Jerry Cantrell, Michael Starr, Layne Staley: 1 tracks
+Jerry Cantrell, Michael Starr, Sean Kinney: 1 tracks
+Jerry Lynn Williams: 1 tracks
+Jerry Ragavoy: 1 tracks
+Jesse Ed Davis III/Taj Mahal: 1 tracks
+Jesse Fuller: 1 tracks
+Jim Beard: 2 tracks
+Jim Beard & Jon Herington: 1 tracks
+Jimi Hendrix: 16 tracks
+Jimmy Cox: 1 tracks
+Jimmy Forrest/Lewis C. Simpkins/Oscar Washington: 1 tracks
+Jimmy Page: 6 tracks
+Jimmy Page & Robert Plant: 1 tracks
+Jimmy Page, Robert Plant: 15 tracks
+Jimmy Page, Robert Plant & John Paul Jones: 3 tracks
+Jimmy Page, Robert Plant, Charlie Jones, Michael Lee: 12 tracks
+Jimmy Page, Robert Plant, John Bonham: 1 tracks
+Jimmy Page, Robert Plant, John Bonham, John Paul Jones: 1 tracks
+Jimmy Page, Robert Plant, John Paul Jones: 5 tracks
+Jimmy Page, Robert Plant, John Paul Jones, John Bonham: 4 tracks
+Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Memphis Minnie: 1 tracks
+Jimmy Page/Jimmy Page & Robert Plant/Robert Plant: 4 tracks
+Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant: 1 tracks
+Jimmy Page/John Bonham/John Paul Jones: 6 tracks
+Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon: 1 tracks
+Jimmy Page/John Paul Jones: 1 tracks
+Jimmy Page/Led Zeppelin: 1 tracks
+Jimmy Page/Robert Johnson/Robert Plant: 1 tracks
+Jimmy Page/Robert Plant: 12 tracks
+Jimmy and Vella Cameron: 1 tracks
+Joe Strummer/Mick Jones: 9 tracks
+Johann Pachelbel: 1 tracks
+Johann Sebastian Bach: 7 tracks
+Johann Strauss II: 1 tracks
+John Adams: 1 tracks
+John Bonham: 2 tracks
+John Bonham, John Paul Jones, Jimmy Page: 1 tracks
+John Bonham/John Paul Jones: 6 tracks
+John Bonham/John Paul Jones/Robert Plant: 2 tracks
+John Bonham/John Paul Jones/Robert Plant/Willie Dixon: 1 tracks
+John Brim: 1 tracks
+John Deacon: 1 tracks
+John Dowland: 1 tracks
+John Entwistle: 1 tracks
+John Entwistle/Pete Townshend: 5 tracks
+John Lennon, Paul McCartney: 1 tracks
+John Paul Jones: 2 tracks
+John Paul Jones & Robert Plant: 1 tracks
+John Paul Jones, Jimmy Page & Robert Plant: 1 tracks
+John Paul Jones/Robert Plant: 6 tracks
+John Scofield: 1 tracks
+John Scofield, Robert Aries, Milton Chambers and Gary Grainger: 1 tracks
+John and William Valentine: 1 tracks
+Jon Herington: 1 tracks
+Jon Hudson/Mike Bordin/Mike Patton: 1 tracks
+Jon Hudson/Mike Patton: 1 tracks
+Jones/Sirotto/Smith: 1 tracks
+Jorge Aragão/Zeca Pagodinho: 1 tracks
+Jorge Ben: 2 tracks
+Jorge Cardoso/Pierre Onasis: 1 tracks
+Jorge Vercilo/Jota Maranhao: 1 tracks
+João Suplicy: 14 tracks
+Julian Crampton: 1 tracks
+K.Hammett: 5 tracks
+KC Porter & JB Eckl: 1 tracks
+Karol Szymanowski: 1 tracks
+Karsh Kale: 1 tracks
+Karsh Kale/Vishal Vaid: 1 tracks
+Keith Richards/Mick Jagger: 1 tracks
+Kelly, Mosley, Rothery, Trewaves: 10 tracks
+Kenny Gamble and Leon Huff: 1 tracks
+Kevin Robinson: 1 tracks
+Kevin Robinson/Richard Bull: 1 tracks
+Killing Joke: 1 tracks
+Kretz/R. DeLeo/Weiland: 1 tracks
+Kurt Cobain: 26 tracks
+Kurt Weill: 1 tracks
+L. Delibes: 1 tracks
+L. Hill: 1 tracks
+L. Kerslake, O. Osbourne, R. Daisley & R. Rhoads: 1 tracks
+L. Kilmister, O. Osbourne & Z. Wylde: 1 tracks
+L. Muggerud: 2 tracks
+Larry Williams: 2 tracks
+Lennon, John/McCartney, Paul: 1 tracks
+Lenny Kravitz: 9 tracks
+Lenny Kravitz/Slash: 1 tracks
+Leão, Rodrigo F./Lô Borges/Samuel Rosa: 1 tracks
+Leão, Rodrigo F./Samuel Rosa: 1 tracks
+Little Richard: 1 tracks
+Lowman Pauling: 1 tracks
+Luca Gusella: 1 tracks
+Luciana Souza: 1 tracks
+Lucina/Luli: 1 tracks
+Ludwig van Beethoven: 5 tracks
+Luiz Carlos/Oberdan: 1 tracks
+Luiz Gonzaga/Zé Dantas: 1 tracks
+Luiz Melodia/Ricardo Augusto: 1 tracks
+Luiz Wanderley/Paulo Levi: 1 tracks
+Luke Smith: 1 tracks
+Lulu Santos: 2 tracks
+Lô Borges, Fernando Brant: 1 tracks
+Lô Borges, Márcio Borges, Fernando Brant: 1 tracks
+M. Itaal Shur & Rob Thomas: 1 tracks
+M.Babatunde Olantunji: 1 tracks
+Mabins, Macie/Magee, Sterling/Robinson, Bobby: 1 tracks
+Macelo Yuka/O Rappa: 1 tracks
+Manuca/Raimundinho DoAcordion/Targino Godim: 1 tracks
+Marc-Antoine Charpentier: 1 tracks
+Marco Tulio Lara/Rogerio Flausino: 1 tracks
+Marcos Valle: 1 tracks
+Marisa Monte/Nando Reis: 2 tracks
+Marisa Monte/poema de Octavio Paz/versão: Haroldo de Campos: 1 tracks
+Mark Ronson: 1 tracks
+Marley: 1 tracks
+Marsden: 1 tracks
+Marsden/Moody: 1 tracks
+Marvin Gaye: 4 tracks
+Mason, Waters, Wright, Gilmour: 1 tracks
+Mason/Waters, Gilmour, Wright: 1 tracks
+Matt Cameron: 3 tracks
+Matt Cameron & Mike McCready: 1 tracks
+Matt Rowe & Stefan Skarbek: 1 tracks
+Mauro Diniz/Ratino Sigem: 1 tracks
+Maxton Gig Beesley Jnr.: 1 tracks
+May: 4 tracks
+May, Brian: 4 tracks
+McKinley Morgenfield (Muddy Waters): 1 tracks
+Mercury: 3 tracks
+Mercury, Freddie: 10 tracks
+Metallica: 8 tracks
+Michael Jackson: 1 tracks
+Mick Hucknall: 7 tracks
+Mick Hucknall and Fritz McIntyre: 2 tracks
+Mick Hucknall and Lamont Dozier: 1 tracks
+Mick Hucknall and Neil Moss: 1 tracks
+Mick Jagger, Keith Richard: 1 tracks
+Mick Jones/Traditional arr. Joe Strummer: 1 tracks
+Mick Mars/Nikki Sixx: 3 tracks
+Mick Mars/Nikki Sixx/Tommy Lee: 2 tracks
+Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil: 3 tracks
+Mike Bordin, Billy Gould, Mike Patton: 10 tracks
+Mike Bordin, Billy Gould, Mike Patton, Trey Spruance: 5 tracks
+Mike Dint, Billie Joe, Tré Cool: 2 tracks
+Mike Dirnt -Words Green Day -Music: 1 tracks
+Mike Dirnt/Tré Cool: 1 tracks
+Mike McCready: 1 tracks
+Mike McCready & Stone Gossard: 1 tracks
+Mike Patton: 3 tracks
+Miles Davis: 23 tracks
+Miles Davis, Gil Evans: 1 tracks
+Milton Nascimento: 1 tracks
+Milton Nascimento, Caetano Veloso: 2 tracks
+Milton Nascimento, Fernando Brant: 9 tracks
+Milton Nascimento, Márcio Borges: 1 tracks
+Milton Nascimento, Ronaldo Bastos: 3 tracks
+Molaney/Morris/Roberts/Wainwright: 2 tracks
+Moody: 1 tracks
+Morais: 1 tracks
+Murilão: 1 tracks
+Murray  Dave: 1 tracks
+Mutantes: 1 tracks
+Mônica Marianno: 12 tracks
+N. Cester: 1 tracks
+Nando Reis: 3 tracks
+Nando Reis/Samuel Rosa: 1 tracks
+Nanker Phelge: 1 tracks
+Ned Fairchild: 1 tracks
+Nei Lopes/Wilson Moreira: 1 tracks
+Neil Young: 1 tracks
+Nelson Angelo: 1 tracks
+Niccolò Paganini: 1 tracks
+Nickolas Ashford & Valerie Simpson: 1 tracks
+Nikki Sixx: 5 tracks
+Nikki Sixx/Tommy Lee/Vince Neil: 2 tracks
+Nikolai Rimsky-Korsakov: 1 tracks
+Nirvana: 3 tracks
+O. Osbourne: 1 tracks
+O. Osbourne, R. Daisley, R. Rhoads: 9 tracks
+O. Osbourne, R. Daisley, R. Rhoads, L. Kerslake: 1 tracks
+Orestes Barbosa-Sílvio Caldas: 1 tracks
+Os Mutantes - Arnolpho Lima Filho: 1 tracks
+Page, Jones: 1 tracks
+Patrick Claher/Richard Bull: 1 tracks
+Paul Di'Anno/Steve Harris: 5 tracks
+Paul O'duffy: 1 tracks
+Paul Stanley: 5 tracks
+Paul Stanley, Ace Frehley: 2 tracks
+Paul Stanley, B. Ezrin: 1 tracks
+Paul Stanley, B. Ezrin, K. Fowley: 1 tracks
+Paul Stanley, Bob Ezrin, Kim Fowley: 1 tracks
+Paul Stanley, Gene Simmons: 3 tracks
+Paul Stanley, Gene Simmons, B. Ezrin: 1 tracks
+Paul Stanley, Gene Simmons, Bob Ezrin, Lewis Reed: 1 tracks
+Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin: 1 tracks
+Paul Stanley, Vincent Cusano: 1 tracks
+Paul Stanley, Vincent Poncia: 2 tracks
+Paul Stanley, Vincent Poncia, Desmond Child: 1 tracks
+Paulinho Rezende/Toninho Geraes: 1 tracks
+Paulo Levi/W. Rangel: 1 tracks
+Pearl Jam: 2 tracks
+Pearl Jam & Eddie Vedder: 1 tracks
+Peninha: 1 tracks
+Pete Townshend: 13 tracks
+Pete Townshend, Roger Daltrey: 1 tracks
+Peter Criss, Stan Penridge, Bob Ezrin: 1 tracks
+Peter Ilyich Tchaikovsky: 1 tracks
+Philip Glass: 1 tracks
+Pietro Antonio Locatelli: 1 tracks
+Pietro Mascagni: 1 tracks
+Queen: 9 tracks
+Queen & David Bowie: 1 tracks
+R. Carless: 1 tracks
+R. DeLeo/Weiland: 6 tracks
+R. Rhoads: 1 tracks
+R. Taha, Carlos Santana & T. Lindsay: 1 tracks
+R. Troup, L. Worth: 1 tracks
+R.E.M.: 16 tracks
+Ralph Vaughan Williams: 1 tracks
+Ratinho/Zeca Pagodinho: 1 tracks
+Ray Davies: 2 tracks
+Red Hot Chili Peppers: 12 tracks
+Renato Russo: 20 tracks
+Renato Russo - Marcelo Bonfá: 1 tracks
+Renato Russo - Marisa Monte: 1 tracks
+Richard Bull: 2 tracks
+Richard Poindexter & Robert Poindexter: 1 tracks
+Richard Wagner: 1 tracks
+Richie Blackmore, Ian Gillian, Roger Glover: 2 tracks
+Richie Blackmore, Ian Gillian, Roger Glover, Ian Paice: 1 tracks
+Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord: 2 tracks
+Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice: 5 tracks
+Rick Strauss: 1 tracks
+Rita Lee - Arnaldo Baptista - Sérgio Baptista: 1 tracks
+Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice: 7 tracks
+Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison: 9 tracks
+Robert Geddins/Ron Badger/Sheldon Feinberg: 1 tracks
+Robert Johnson: 3 tracks
+Robert Plant: 13 tracks
+Robert Plant & John Paul Jones: 1 tracks
+Robert Rogers/Warren "Pete" Moore/William "Mickey" Stevenson: 1 tracks
+Rodolfo: 10 tracks
+Roger Taylor: 2 tracks
+Roy Z: 8 tracks
+S. Penridge, Bob Ezrin, Peter Criss: 1 tracks
+Salaam Remi: 2 tracks
+Samuel Barber: 1 tracks
+Samuel Rosa: 11 tracks
+Santana: 1 tracks
+Seger: 1 tracks
+Sergei Prokofiev: 1 tracks
+Slash/W. Axl Rose: 1 tracks
+Smith, Toby: 6 tracks
+Smith/Dickinson: 3 tracks
+Smokey Robinson/Warren "Pete" Moore: 1 tracks
+Sonny Boy Williamson [I]: 1 tracks
+Sonny Curtis: 1 tracks
+Soundgarden: 1 tracks
+South: 1 tracks
+Steve Harris: 80 tracks
+Steven Tyler, Desmond Child: 1 tracks
+Steven Tyler, Jim Vallance: 2 tracks
+Steven Tyler, Joe Perry: 1 tracks
+Steven Tyler, Joe Perry, Desmond Child: 3 tracks
+Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw: 1 tracks
+Steven Tyler, Joe Perry, Jim Vallance: 1 tracks
+Steven Tyler, Joe Perry, Jim Vallance, Holly Knight: 1 tracks
+Steven Tyler, Joe Perry, Mark Hudson: 1 tracks
+Steven Tyler, Joe Perry, Taylor Rhodes: 2 tracks
+Steven Tyler, Richie Supa: 1 tracks
+Steven Tyler, Tom Hamilton: 1 tracks
+Stevie Nicks: 1 tracks
+Stevie Ray Vaughan: 2 tracks
+Stone Gossard: 8 tracks
+Stone Gossard & Eddie Vedder: 2 tracks
+Stone Gossard & Eddie Vedder & Jeff Ament & Mike McCready: 1 tracks
+Stuard Zender/Toby Smith: 1 tracks
+Stuart Zender: 1 tracks
+Sully Erna: 10 tracks
+Sully Erna; Tony Rombola: 2 tracks
+Sweet Savage: 1 tracks
+Sykes: 4 tracks
+Sylvester Stewart: 1 tracks
+Sérgio Britto: 2 tracks
+Sérgio Britto/Toni Bellotto: 1 tracks
+Tankian, Serj: 7 tracks
+Taylor: 2 tracks
+Ted Wright: 1 tracks
+Terry Bozzio, Steve Stevens, Tony Levin: 7 tracks
+The Clash: 7 tracks
+The Tea Party: 24 tracks
+Thomas Tallis: 1 tracks
+Tim Maia: 9 tracks
+Titãs: 22 tracks
+Toby Smith: 7 tracks
+Toby Smith/Wallis Buchanan: 1 tracks
+Tom Jobim - Newton Mendoça: 1 tracks
+Toni Bellotto: 1 tracks
+Toninho Horta: 1 tracks
+Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne: 11 tracks
+Tradicional: 1 tracks
+Traditional: 4 tracks
+Turner, Held, Greenwood: 1 tracks
+U. Dirkschneider, W. Hoffmann, H. Frank, P. Baltes, S. Kaufmann, G. Hoffmann: 1 tracks
+U2: 44 tracks
+U2 & Daragh O'Toole: 1 tracks
+U2 & Van Dyke Parks: 1 tracks
+U2; Bono: 8 tracks
+U2; Bono & Edge, The: 1 tracks
+U2; Edge, The: 1 tracks
+Ulrich: 7 tracks
+Van Halen: 15 tracks
+Vandenberg: 4 tracks
+Vários: 17 tracks
+W. Axl Rose: 4 tracks
+W. Jean, J. Duplessis, Carlos Santana, K. Perazzo & R. Rekow: 1 tracks
+W.Correa: 1 tracks
+Wagner Tiso, Milton Nascimento: 1 tracks
+Waters: 3 tracks
+Waters, Wright: 1 tracks
+Weill-Brecht: 1 tracks
+Whitfield-Strong: 1 tracks
+William "Mickey" Stevenson: 1 tracks
+William Byrd: 1 tracks
+Willie Dixon: 8 tracks
+Willie Dixon, C. Burnett: 1 tracks
+Wolfgang Amadeus Mozart: 5 tracks
+Wright, Waters: 1 tracks
+alan bergman/marilyn bergman/peggy lipton jones/quincy jones: 1 tracks
+antonio carlos jobim/norman gimbel/vinicius de moraes: 1 tracks
+bart howard: 1 tracks
+bert brecht/kurt weill/marc blitzstein: 1 tracks
+berthold kaempfert/charles singleton/eddie snyder: 1 tracks
+carl sigman/gilbert becaud/pierre leroyer: 1 tracks
+carolyn leigh/cy coleman: 1 tracks
+carson c. parks: 1 tracks
+claude françois/gilles thibault/jacques revaux/paul anka: 1 tracks
+cole porter: 2 tracks
+dean kay thompson/kelly gordon: 1 tracks
+ervin drake: 1 tracks
+fred ebb/john kander: 1 tracks
+george gershwin/ira gershwin: 1 tracks
+hans bradtke/heinz meier/johnny mercer: 1 tracks
+henry mancini/johnny mercer: 1 tracks
+ian paice/jon lord: 1 tracks
+jim croce: 1 tracks
+jimmy van heusen/sammy cahn: 3 tracks
+jon lord/roger glover: 2 tracks
+lorenz hart/richard rodgers: 1 tracks
+orlando murden/ronald miller: 1 tracks
+rod mckuen: 1 tracks
+roger glover: 7 tracks
+
+7) GetTracksByGenreAsync("Rock"):
+Found 1297 tracks
+
+8) GetTracksLongerThanAsync(300):
+Found 1058 tracks
+
+9) FiveMostExpensiveTracks:
+Battlestar Galactica: The Story So Far ($1.99) - Battlestar Galactica: The Story So Far
+Occupation / Precipice ($1.99) - Battlestar Galactica, Season 3
+Exodus, Pt. 1 ($1.99) - Battlestar Galactica, Season 3
+Exodus, Pt. 2 ($1.99) - Battlestar Galactica, Season 3
+Collaborators ($1.99) - Battlestar Galactica, Season 3
+
+10) CustomersAndAmountSpent:
+Luís Gonçalves: $39.62 (7 purchases)
+Leonie Köhler: $37.62 (7 purchases)
+François Tremblay: $39.62 (7 purchases)
+Bjørn Hansen: $39.62 (7 purchases)
+František Wichterlová: $40.62 (7 purchases)
+Helena Holý: $49.62 (7 purchases)
+Astrid Gruber: $42.62 (7 purchases)
+Daan Peeters: $37.62 (7 purchases)
+Kara Nielsen: $37.62 (7 purchases)
+Eduardo Martins: $37.62 (7 purchases)
+Alexandre Rocha: $37.62 (7 purchases)
+Roberto Almeida: $37.62 (7 purchases)
+Fernanda Ramos: $37.62 (7 purchases)
+Mark Philips: $37.62 (7 purchases)
+Jennifer Peterson: $38.62 (7 purchases)
+Frank Harris: $37.62 (7 purchases)
+Jack Smith: $39.62 (7 purchases)
+Michelle Brooks: $37.62 (7 purchases)
+Tim Goyer: $38.62 (7 purchases)
+Dan Miller: $39.62 (7 purchases)
+Kathy Chase: $37.62 (7 purchases)
+Heather Leacock: $39.62 (7 purchases)
+John Gordon: $37.62 (7 purchases)
+Frank Ralston: $43.62 (7 purchases)
+Victor Stevens: $42.62 (7 purchases)
+Richard Cunningham: $47.62 (7 purchases)
+Patrick Gray: $37.62 (7 purchases)
+Julia Barnett: $43.62 (7 purchases)
+Robert Brown: $37.62 (7 purchases)
+Edward Francis: $37.62 (7 purchases)
+Martha Silk: $37.62 (7 purchases)
+Aaron Mitchell: $37.62 (7 purchases)
+Ellie Sullivan: $37.62 (7 purchases)
+João Fernandes: $39.62 (7 purchases)
+Madalena Sampaio: $37.62 (7 purchases)
+Hannah Schneider: $37.62 (7 purchases)
+Fynn Zimmermann: $43.62 (7 purchases)
+Niklas Schröder: $37.62 (7 purchases)
+Camille Bernard: $38.62 (7 purchases)
+Dominique Lefebvre: $38.62 (7 purchases)
+Marc Dubois: $37.62 (7 purchases)
+Wyatt Girard: $39.62 (7 purchases)
+Isabelle Mercier: $40.62 (7 purchases)
+Terhi Hämäläinen: $41.62 (7 purchases)
+Ladislav Kovács: $45.62 (7 purchases)
+Hugh O'Reilly: $45.62 (7 purchases)
+Lucas Mancini: $37.62 (7 purchases)
+Johannes Van der Berg: $40.62 (7 purchases)
+Stanisław Wójcik: $37.62 (7 purchases)
+Enrique Muñoz: $37.62 (7 purchases)
+Joakim Johansson: $38.62 (7 purchases)
+Emma Jones: $37.62 (7 purchases)
+Phil Hughes: $37.62 (7 purchases)
+Steve Murray: $37.62 (7 purchases)
+Mark Taylor: $37.62 (7 purchases)
+Diego Gutiérrez: $37.62 (7 purchases)
+Luis Rojas: $46.62 (7 purchases)
+Manoj Pareek: $38.62 (7 purchases)
+Puja Srivastava: $36.64 (6 purchases)
+
+11) CustomersTotalPurchaseAmounts:
+Luís Gonçalves: $39.62 (7)
+Leonie Köhler: $37.62 (7)
+François Tremblay: $39.62 (7)
+Bjørn Hansen: $39.62 (7)
+František Wichterlová: $40.62 (7)
+Helena Holý: $49.62 (7)
+Astrid Gruber: $42.62 (7)
+Daan Peeters: $37.62 (7)
+Kara Nielsen: $37.62 (7)
+Eduardo Martins: $37.62 (7)
+Alexandre Rocha: $37.62 (7)
+Roberto Almeida: $37.62 (7)
+Fernanda Ramos: $37.62 (7)
+Mark Philips: $37.62 (7)
+Jennifer Peterson: $38.62 (7)
+Frank Harris: $37.62 (7)
+Jack Smith: $39.62 (7)
+Michelle Brooks: $37.62 (7)
+Tim Goyer: $38.62 (7)
+Dan Miller: $39.62 (7)
+Kathy Chase: $37.62 (7)
+Heather Leacock: $39.62 (7)
+John Gordon: $37.62 (7)
+Frank Ralston: $43.62 (7)
+Victor Stevens: $42.62 (7)
+Richard Cunningham: $47.62 (7)
+Patrick Gray: $37.62 (7)
+Julia Barnett: $43.62 (7)
+Robert Brown: $37.62 (7)
+Edward Francis: $37.62 (7)
+Martha Silk: $37.62 (7)
+Aaron Mitchell: $37.62 (7)
+Ellie Sullivan: $37.62 (7)
+João Fernandes: $39.62 (7)
+Madalena Sampaio: $37.62 (7)
+Hannah Schneider: $37.62 (7)
+Fynn Zimmermann: $43.62 (7)
+Niklas Schröder: $37.62 (7)
+Camille Bernard: $38.62 (7)
+Dominique Lefebvre: $38.62 (7)
+Marc Dubois: $37.62 (7)
+Wyatt Girard: $39.62 (7)
+Isabelle Mercier: $40.62 (7)
+Terhi Hämäläinen: $41.62 (7)
+Ladislav Kovács: $45.62 (7)
+Hugh O'Reilly: $45.62 (7)
+Lucas Mancini: $37.62 (7)
+Johannes Van der Berg: $40.62 (7)
+Stanisław Wójcik: $37.62 (7)
+Enrique Muñoz: $37.62 (7)
+Joakim Johansson: $38.62 (7)
+Emma Jones: $37.62 (7)
+Phil Hughes: $37.62 (7)
+Steve Murray: $37.62 (7)
+Mark Taylor: $37.62 (7)
+Diego Gutiérrez: $37.62 (7)
+Luis Rojas: $46.62 (7)
+Manoj Pareek: $38.62 (7)
+Puja Srivastava: $36.64 (6)
+
+12) CustomersWithMoreThanFivePurchases:
+Luís Gonçalves: $39.62 (7)
+Leonie Köhler: $37.62 (7)
+François Tremblay: $39.62 (7)
+Bjørn Hansen: $39.62 (7)
+František Wichterlová: $40.62 (7)
+Helena Holý: $49.62 (7)
+Astrid Gruber: $42.62 (7)
+Daan Peeters: $37.62 (7)
+Kara Nielsen: $37.62 (7)
+Eduardo Martins: $37.62 (7)
+Alexandre Rocha: $37.62 (7)
+Roberto Almeida: $37.62 (7)
+Fernanda Ramos: $37.62 (7)
+Mark Philips: $37.62 (7)
+Jennifer Peterson: $38.62 (7)
+Frank Harris: $37.62 (7)
+Jack Smith: $39.62 (7)
+Michelle Brooks: $37.62 (7)
+Tim Goyer: $38.62 (7)
+Dan Miller: $39.62 (7)
+Kathy Chase: $37.62 (7)
+Heather Leacock: $39.62 (7)
+John Gordon: $37.62 (7)
+Frank Ralston: $43.62 (7)
+Victor Stevens: $42.62 (7)
+Richard Cunningham: $47.62 (7)
+Patrick Gray: $37.62 (7)
+Julia Barnett: $43.62 (7)
+Robert Brown: $37.62 (7)
+Edward Francis: $37.62 (7)
+Martha Silk: $37.62 (7)
+Aaron Mitchell: $37.62 (7)
+Ellie Sullivan: $37.62 (7)
+João Fernandes: $39.62 (7)
+Madalena Sampaio: $37.62 (7)
+Hannah Schneider: $37.62 (7)
+Fynn Zimmermann: $43.62 (7)
+Niklas Schröder: $37.62 (7)
+Camille Bernard: $38.62 (7)
+Dominique Lefebvre: $38.62 (7)
+Marc Dubois: $37.62 (7)
+Wyatt Girard: $39.62 (7)
+Isabelle Mercier: $40.62 (7)
+Terhi Hämäläinen: $41.62 (7)
+Ladislav Kovács: $45.62 (7)
+Hugh O'Reilly: $45.62 (7)
+Lucas Mancini: $37.62 (7)
+Johannes Van der Berg: $40.62 (7)
+Stanisław Wójcik: $37.62 (7)
+Enrique Muñoz: $37.62 (7)
+Joakim Johansson: $38.62 (7)
+Emma Jones: $37.62 (7)
+Phil Hughes: $37.62 (7)
+Steve Murray: $37.62 (7)
+Mark Taylor: $37.62 (7)
+Diego Gutiérrez: $37.62 (7)
+Luis Rojas: $46.62 (7)
+Manoj Pareek: $38.62 (7)
+Puja Srivastava: $36.64 (6)
+
+13) InvoicesGroupedByCustomerAsync:
+CustomerId 1: 7 invoices
+CustomerId 2: 7 invoices
+CustomerId 3: 7 invoices
+CustomerId 4: 7 invoices
+CustomerId 5: 7 invoices
+CustomerId 6: 7 invoices
+CustomerId 7: 7 invoices
+CustomerId 8: 7 invoices
+CustomerId 9: 7 invoices
+CustomerId 10: 7 invoices
+CustomerId 11: 7 invoices
+CustomerId 12: 7 invoices
+CustomerId 13: 7 invoices
+CustomerId 14: 7 invoices
+CustomerId 15: 7 invoices
+CustomerId 16: 7 invoices
+CustomerId 17: 7 invoices
+CustomerId 18: 7 invoices
+CustomerId 19: 7 invoices
+CustomerId 20: 7 invoices
+CustomerId 21: 7 invoices
+CustomerId 22: 7 invoices
+CustomerId 23: 7 invoices
+CustomerId 24: 7 invoices
+CustomerId 25: 7 invoices
+CustomerId 26: 7 invoices
+CustomerId 27: 7 invoices
+CustomerId 28: 7 invoices
+CustomerId 29: 7 invoices
+CustomerId 30: 7 invoices
+CustomerId 31: 7 invoices
+CustomerId 32: 7 invoices
+CustomerId 33: 7 invoices
+CustomerId 34: 7 invoices
+CustomerId 35: 7 invoices
+CustomerId 36: 7 invoices
+CustomerId 37: 7 invoices
+CustomerId 38: 7 invoices
+CustomerId 39: 7 invoices
+CustomerId 40: 7 invoices
+CustomerId 41: 7 invoices
+CustomerId 42: 7 invoices
+CustomerId 43: 7 invoices
+CustomerId 44: 7 invoices
+CustomerId 45: 7 invoices
+CustomerId 46: 7 invoices
+CustomerId 47: 7 invoices
+CustomerId 48: 7 invoices
+CustomerId 49: 7 invoices
+CustomerId 50: 7 invoices
+CustomerId 51: 7 invoices
+CustomerId 52: 7 invoices
+CustomerId 53: 7 invoices
+CustomerId 54: 7 invoices
+CustomerId 55: 7 invoices
+CustomerId 56: 7 invoices
+CustomerId 57: 7 invoices
+CustomerId 58: 7 invoices
+CustomerId 59: 6 invoices
+
+14) GetTopCustomersBySpendingAsync(3):
+Helena Holý: $49.62
+Richard Cunningham: $47.62
+Luis Rojas: $46.62
+
+15) RevenueByCountryAsync:
+Argentina: $37.62
+Australia: $37.62
+Austria: $42.62
+Belgium: $37.62
+Brazil: $190.10
+Canada: $303.96
+Chile: $46.62
+Czech Republic: $90.24
+Denmark: $37.62
+Finland: $41.62
+France: $195.10
+Germany: $156.48
+Hungary: $45.62
+India: $75.26
+Ireland: $45.62
+Italy: $37.62
+Netherlands: $40.62
+Norway: $39.62
+Poland: $37.62
+Portugal: $77.24
+Spain: $37.62
+Sweden: $38.62
+USA: $523.06
+United Kingdom: $112.86
+
+16) TotalPurchasesByCountry:
+Argentina: $37.62 (7 invoices)
+Australia: $37.62 (7 invoices)
+Austria: $42.62 (7 invoices)
+Belgium: $37.62 (7 invoices)
+Brazil: $190.1 (35 invoices)
+Canada: $303.96 (56 invoices)
+Chile: $46.62 (7 invoices)
+Czech Republic: $90.24 (14 invoices)
+Denmark: $37.62 (7 invoices)
+Finland: $41.62 (7 invoices)
+France: $195.1 (35 invoices)
+Germany: $156.48 (28 invoices)
+Hungary: $45.62 (7 invoices)
+India: $75.26 (13 invoices)
+Ireland: $45.62 (7 invoices)
+Italy: $37.62 (7 invoices)
+Netherlands: $40.62 (7 invoices)
+Norway: $39.62 (7 invoices)
+Poland: $37.62 (7 invoices)
+Portugal: $77.24 (14 invoices)
+Spain: $37.62 (7 invoices)
+Sweden: $38.62 (7 invoices)
+USA: $523.06 (91 invoices)
+United Kingdom: $112.86 (21 invoices)
+
+17) GetCustomersByCountryAsync("USA"):
+Found 13 customers
+
+18) GetInvoicesInDateRangeAsync(2024 - 2025):
+Found 83 invoices
+
+----- END OF TEST OUTPUTS -----

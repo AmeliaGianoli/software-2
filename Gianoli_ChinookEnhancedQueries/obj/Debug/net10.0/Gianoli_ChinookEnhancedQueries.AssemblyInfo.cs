@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gianoli_ChinookEnhancedQueries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be23f5bb2e7894ed9db3860ce1373befdaa2529d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2069ce9a827b3f70b4fccd5b14810342ddd6d320")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gianoli_ChinookEnhancedQueries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gianoli_ChinookEnhancedQueries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
